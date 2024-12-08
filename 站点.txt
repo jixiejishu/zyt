@@ -1,0 +1,622 @@
+    {
+            "key": "好趣网",
+            "name": "🎦好趣网",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 87,
+            "ext": "./js/好趣网.js"
+        },
+        {
+            "key": "lf_live10_min",
+            "name": "📺︎开心软件直播(仅支持影视/fongmi)",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "./api/lf_live10_min-output.js",
+            "ext": "./json/lf_live.json"
+        },
+        {
+            "key": "直播转点播",
+            "name": "📺电视┃直播(欧歌)",
+            "type": 3,
+            "api": "./api/live.js",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://o.nxog.top/m//json/live.php?ou=公众号欧歌APP"
+        },
+        {
+            "key": "直播转点播（摸鱼）",
+            "name": "📺️IPV6┃电视┃直播(摸鱼)",
+            "type": 3,
+            "api": "./api/moyulive.js",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
+        },
+   {
+            "key": "爱奇异",
+            "name": "🎦爱奇艺(官)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/爱奇艺.js"
+        },
+        {
+            "key": "优酷",
+            "name": "🎦优酷(官)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/优酷.js"
+        },
+        {
+            "key": "腾讯",
+            "name": "🎦腾讯VIP(官)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/腾讯VIP.js"
+        },
+        {
+            "key": "芒果",
+            "name": "🎦芒果(官)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/芒果.js"
+        },
+        {
+            "key": "hipy_js_哔哩影视[官]",
+            "name": "🎦哔哩影视[官](drpy_t3)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 73,
+            "ext": "./js/哔哩影视[官].js"
+        },
+        {
+            "key": "bili",
+            "name": "🅱️哔哩┃合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "./txt/bili_cookie.txt",
+                "json": "./txt/哔哩合集.txt"
+            },
+            "timeout": 20
+        },
+    {
+            "key": "bili_综合",
+            "name": "🅱️哔哩┃综合",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "./txt/bili_cookie.txt",
+                "json": "./json/哔哩综合.json"
+            },
+            "timeout": 20
+        },
+        {
+            "key": "搜狗",
+            "name": "🎦搜狗(官)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/搜狗.js"
+        },
+  {
+            "key": "88看球",
+            "name": "⚽88┃看球",
+            "type": 3,
+            "api": "csp_Kanqiu",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "jrsjs",
+            "name": "⚽Jrs┃球迷",
+            "type": 3,
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
+            "ext": "./txt/jrs.txt",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 10,
+            "header": {
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+            }
+        },
+        {
+            "key": "hipy_js_360吧[球]",
+            "name": "⚽360吧[球]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "playerType": "1",
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/360吧[球].js"
+        },
+        {
+            "key": "926tv[球]_js",
+            "name": "⚽926tv[球](drpy_t3)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/926tv[球].js"
+        },
+        {
+            "key": "310js",
+            "name": "⚽310┃看球",
+            "type": 3,
+            "api": "./api/drpy2.min.txt?file=drpy2.min.js",
+            "ext": "./txt/310.txt",
+            "style": {
+                "type": "list"
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 10
+        },
+{"key":"lf_js_lf_live","name":"电视 | 直播[js]高天流云","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
+		{
+			"key": "hipy_js_老白故事[听]",
+			"name": "老白故事[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/老白故事[听].js"
+		},
+		{
+			"key": "hipy_js_直播转点播[合]",
+			"name": "直播转点播[合](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/直播转点播[合].js?type=url&params=../json/live2cms.json"
+		},
+		{
+			"key": "hipy_js_爱上你听书网[听]",
+			"name": "爱上你听书网[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/爱上你听书网[听].js"
+		},
+		{
+			"key": "hipy_js_博看听书[听]",
+			"name": "博看听书[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/博看听书[听].js"
+		},
+		{
+			"key": "hipy_js_广播迷FM[听]",
+			"name": "广播迷FM[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/广播迷FM[听].js"
+		},
+		{
+			"key": "hipy_js_酷我听书[听]",
+			"name": "酷我听书[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/酷我听书[听].js"
+		},
+		{
+			"key": "hipy_js_六月听书[听]",
+			"name": "六月听书[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/六月听书[听].js"
+		},
+		{
+			"key": "hipy_js_有声听书网[听]",
+			"name": "有声听书网[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/有声听书网[听].js"
+		},
+		{
+			"key": "hipy_js_有声小说吧[听]",
+			"name": "有声小说吧[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/有声小说吧[听].js"
+		},
+		{
+			"key": "hipy_js_中华听书网[听]",
+			"name": "中华听书网[听](drpy_t3)道长",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/中华听书网[听].js"
+		},
+                
+
+
+
+肥猫
+在jar里面
+        {
+            "key": "csp_BookTing",
+            "name": "📚┃听书┃音频",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_BookTing",
+            "searchable": 0,
+            "ext": "https://m.ting275.com",
+            "style": {
+                "type": "rect",
+                "ratio": 1.333
+            }
+        },
+        {
+            "key": "酷狗",
+            "name": "🐾┃酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Kugou",
+            "playerType": 2,
+            "ext": {
+                "classes": [
+                    {
+                        "type_name": "酷狗",
+                        "type_id": "kugou"
+                    }
+                ]
+            }
+        },
+
+南风
+        {
+            "key": "戏曲",
+            "name": "🅱️戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "./json/Blixq.json"
+        },
+
+欧歌
+        {
+            "key": "酷狗",
+            "name": "🐾酷狗┃音乐",
+            "type": 3,
+            "api": "csp_Kugou",
+            "playerType": 2,
+            "ext": {
+                "classes": [
+                    {
+                        "type_name": "酷狗",
+                        "type_id": "kugou"
+                    }
+                ]
+            }
+        },
+无法直接使用。drpy2.min.js不通用
+        {
+            "key": "戏曲",
+            "name": "🅰️戏曲┃合集",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "order_num": 142,
+            "ext": "./js/我的哔哩.js?type=url&params=./json/戏曲合集.json"
+        },
+
+天天开心
+
+
+      {
+            "key": "hipy_js_KTV歌厅[听]",
+            "name": "🎤KTV歌厅(drpy_t3)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "./js/KTV歌厅[听].js"
+        },
+        {
+            "key": "DJ呦呦音乐网",
+            "name": "🎧DJ呦呦音乐",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./json/DJyyyyw.json"
+        },
+        {
+            "key": "酷奇",
+            "name": "🎤酷奇┃MV",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/酷奇MV.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "js_a8音乐",
+            "name": "🎸A8音乐",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./js/a8yy.js"
+        }
+
+王小二
+jar 无法使用
+        {
+            "key": "Iktv",
+            "name": "🎤KTV┃音乐🎤",
+            "type": 3,
+            "api": "csp_WexIktv",
+            "searchable": 1,
+            "changeable": 0
+        },
+
+
+道长
+
+看戏网没内容 四个小说内容有问题  7猫没内容顶点 没内容 顶点2乱码 番茄没内容
+		{
+			"key": "hipy_js_看戏网",
+			"name": "看戏网(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/看戏网.js"
+		},
+
+		{
+			"key": "hipy_js_世纪DJ音乐网[听]",
+			"name": "世纪DJ音乐网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/世纪DJ音乐网[听].js"
+		},
+		{
+			"key": "hipy_js_种子音乐[听]",
+			"name": "种子音乐[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/种子音乐[听].js"
+		},
+
+		{
+			"key": "hipy_js_7猫小说[书]",
+			"name": "7猫小说[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/7猫小说[书].js"
+		},
+		{
+			"key": "hipy_js_顶点小说[书]",
+			"name": "顶点小说[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/顶点小说[书].js"
+		},
+		{
+			"key": "hipy_js_顶点小说2[书]",
+			"name": "顶点小说2[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/顶点小说2[书].js"
+		},
+		{
+			"key": "hipy_js_番茄小说[书]",
+			"name": "番茄小说[书](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/番茄小说[书].js"
+		},
+
+		{
+			"key": "hipy_js_有声小说吧[听]",
+			"name": "有声小说吧[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/有声小说吧[听].js"
+		},
+		{
+			"key": "hipy_js_中华听书网[听]",
+			"name": "中华听书网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/中华听书网[听].js"
+		},
+
+		{
+			"key": "hipy_js_i275听书[听]",
+			"name": "i275听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/i275听书[听].js"
+		},
+		{
+			"key": "hipy_js_爱上你听书网[听]",
+			"name": "爱上你听书网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/爱上你听书网[听].js"
+		},
+		{
+			"key": "hipy_js_海外剧汇",
+			"name": "海外剧汇(drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/海外剧汇.js"
+		},
+		{
+			"key": "hipy_js_海洋听书[听]",
+			"name": "海洋听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/海洋听书[听].js"
+		},
+		{
+			"key": "hipy_js_酷我听书[听]",
+			"name": "酷我听书[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/酷我听书[听].js"
+		},
+
+		{
+			"key": "hipy_js_有声听书网[听]",
+			"name": "有声听书网[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/有声听书网[听].js"
+		},
+		{
+			"key": "hipy_js_有声小说吧[听]",
+			"name": "有声小说吧[听](drpy_t3)",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/有声小说吧[听].js"
+		},
