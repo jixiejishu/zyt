@@ -11,7 +11,7 @@ z=直播  y=优爱腾 t=体育
 github接口：    
 原地址：（需要挂载加速平台使用。）  
 https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt   
-下面是加上加速地址可以直接使用： 
+下面是加上加速地址，可以直接使用： 
  
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt      
 https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt    
@@ -22,6 +22,6 @@ https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt
 
 ## 常用加速地址  
 https://github.moeyy.xyz/    
-https://gh.llkk.cc/（目前可能有问题） 
+https://gh.llkk.cc/（目前可能有问题）   
 https://ghp.ci/   
 
