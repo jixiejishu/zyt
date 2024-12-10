@@ -22,6 +22,7 @@ https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt
 
 ## 常用加速地址  
 https://github.moeyy.xyz/    
-https://gh.llkk.cc/（目前可能有问题）   
 https://ghp.ci/   
+下面的加速目前可能有问题：  
+https://gh.llkk.cc/   
 
