@@ -13,8 +13,7 @@ github接口：
 https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt   
 下面是加上加速地址可以直接使用： 
  
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt   
-https://gh.llkk.cc/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt     
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt      
 https://ghp.ci/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.txt    
 
 codeberg接口：  
@@ -23,6 +22,6 @@ https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.txt
 
 ## 常用加速地址  
 https://github.moeyy.xyz/    
-https://gh.llkk.cc/   
+https://gh.llkk.cc/（目前可能有问题） 
 https://ghp.ci/   
 
