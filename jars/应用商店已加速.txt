@@ -81,7 +81,7 @@
 {"name": "壳助手TV","url": "https://d.kstore.dev/download/7731/apk/壳助手TV_1.7.4.3.apk","icon": "  ","version": "1.7.4.3"},
 {"name": "壳助手TVst","url": "https://d.kstore.dev/download/7731/apk/壳助手TVst.apk","icon": "  ","version": "闪退使用"},
 {"name": "壳助手手机","url": "https://d.kstore.dev/download/7731/apk/壳助手32_1.7.5.8.apk","icon": "  ","version": "32位1.7.5.8"},
-{"name": "安卓4.X","url": "https://d.kstore.dev/download/7731/apk/壳助手64.apk","icon": "  ","version": "64位"}
+{"name": "壳助手手机","url": "https://d.kstore.dev/download/7731/apk/壳助手64.apk","icon": "  ","version": "64位"}
 ]},
 {"name": "AListFlutter","list": [
 {"name": "AListF32位","url": "https://ghp.ci/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "  ","version": "1.24.121301"},
