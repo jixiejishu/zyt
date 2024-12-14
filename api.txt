@@ -441,6 +441,16 @@
             "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jars/应用商店已加速.txt"
         },
       {
+            "key": "应用加速欧歌",
+            "name": "🛒应用加速欧歌(仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/main/jars/应用商店已加速.txt"
+        },
+      {
             "key": "应用加速k",
             "name": "🛒应用加速凯速(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
@@ -483,6 +493,16 @@
             "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jars/应用商店.txt"
         },
       {
+            "key": "应用欧歌",
+            "name": "🛒应用欧歌(仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/zyt/main/jars/应用商店.txt"
+        },
+      {
             "key": "应用k",
             "name": "🛒应用凯速(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
@@ -502,7 +522,6 @@
             "changeable": 0,
             "ext": "https://gitee.com/jixiejishu/zyt/raw/main/jars/应用商店.txt"
         }
-  
     ],
     "parses": [
         {
