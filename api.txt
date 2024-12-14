@@ -421,87 +421,88 @@
 		},
 //带有加速
       {
-            "key": "应用商店c",
-            "name": "🛒应用商店(仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用加速c",
+            "name": "🛒应用加速codeberg(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jar/应用商店.txt"
+            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jars/应用商店已加速.txt"
         },
       {
-            "key": "应用商店gh",
-            "name": "🛒应用商店github(仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用加速gh",
+            "name": "🛒应用加速github(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jar/应用商店.txt"
+            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jars/应用商店已加速.txt"
         },
       {
-            "key": "应用商店k",
-            "name": "🛒应用商店凯速网(仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用加速k",
+            "name": "🛒应用加速凯速(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://d.kstore.dev/download/7731/zyt/jar/应用商店.txt"
+            "ext": "https://d.kstore.dev/download/7731/zyt/jars/应用商店已加速.txt"
         },
       {
-            "key": "应用商店gt",
-            "name": "🛒应用商店gitee(仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用加速gt",
+            "name": "🛒应用加速gitee(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/zyt/应用商店.txt"
+            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/jars/应用商店已加速.txt"
         },
 
 //不带加速
       {
-            "key": "应用商店c(无加速)",
-            "name": "🛒应用商店(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用c",
+            "name": "🛒应用codeberg(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jar/应用商店（无加速）.txt"
+            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jars/应用商店.txt"
         },
       {
-            "key": "应用商店gh(无加速)",
-            "name": "🛒应用商店github(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用gh",
+            "name": "🛒应用github(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jar/应用商店（无加速）.txt"
+            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jars/应用商店.txt"
         },
       {
-            "key": "应用商店k(无加速)",
-            "name": "🛒应用商店凯速网(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用k",
+            "name": "🛒应用凯速(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://d.kstore.dev/download/7731/zyt/jar/应用商店（无加速）.txt"
+            "ext": "https://d.kstore.dev/download/7731/zyt/jars/应用商店.txt"
         },
       {
-            "key": "应用商店gt(无加速)",
-            "name": "🛒应用商店gitee(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "key": "应用gt",
+            "name": "🛒应用gitee(仅影视_Fongmi，部分手机软件闪退)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/zyt/jar/应用商店（无加速）.txt"
-        }                
+            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/jars/应用商店.txt"
+        }
+  
     ],
     "parses": [
         {
