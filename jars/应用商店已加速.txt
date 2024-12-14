@@ -136,9 +136,9 @@
 {"name": "多仓电视版","url": "https://d.kstore.dev/download/7731/apk/[11_07_禁止外传]平板&TV横板_32位.apk","icon": "  ","version": "11_07_32位"},
 {"name": "多仓手机版","url": "https://d.kstore.dev/download/7731/apk/[11_07_禁止外传]手机&竖版_64位.apk","icon": "  ","version": "11_07_64位"},
 {"name": "多仓手机版","url": "https://d.kstore.dev/download/7731/apk/[11_07_禁止外传]手机&竖版_32位.apk","icon": "  ","version": "11_07_32位"},
-{"name": "v2VPN","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-arm64-v8a.apk","icon": "  ","version": "11_07_64位"},
-{"name": "v2VPN","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-armeabi-v7a.apk","icon": "  ","version": "11_07_32位"},
-{"name": "v2VPNx86","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86.apk","icon": "  ","version": "11_07_64位"},
-{"name": "v2VPNx86","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86_64.apk","icon": "  ","version": "11_07_32位"}
+{"name": "v2VPN","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-arm64-v8a.apk","icon": "  ","version": "6.3.3"},
+{"name": "v2VPN","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-armeabi-v7a.apk","icon": "  ","version": "6.3.3"},
+{"name": "v2VPNx86","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86.apk","icon": "  ","version": "6.3.3"},
+{"name": "v2VPNx86","url": "https://ghp.ci/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86_64.apk","icon": "  ","version": "6.3.3"}
 ]}
 ]
