@@ -1,7 +1,10 @@
 //直播、规则、jar来自于开心 直播去掉③④16万MV.txt，体积大没什么用。
+
+
 {
     "spider": "./spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "logo": "http://php.540734621.xyz/logo/logo.php",
     "lives": [
         {
             "name": "①live(EXO)",
@@ -76,8 +79,8 @@
             "epg": ""
         }
     ],
-    "sites": [  
-        {
+    "sites": [
+{
             "key": "好趣网",
             "name": "🎦好趣网",
             "type": 3,
@@ -148,6 +151,13 @@
             "ext": "./js/芒果.js"
         },
         {
+            "key": "搜狗",
+            "name": "🎦搜狗(官)",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/搜狗.js"
+        },
+        {
             "key": "hipy_js_哔哩影视[官]",
             "name": "🎦哔哩影视[官](drpy_t3)",
             "type": 3,
@@ -194,14 +204,45 @@
             },
             "timeout": 20
         },
+
         {
-            "key": "搜狗",
-            "name": "🎦搜狗(官)",
+            "key": "bili_戏曲",
+            "name": "🅱️哔哩┃戏曲",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/搜狗.js"
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "./txt/bili_cookie.txt",
+                "json": "./json/哔哩戏曲.json"
+            },
+            "timeout": 20
         },
-  {
+        {
+            "key": "bili_相声",
+            "name": "🅱️哔哩┃相声",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "cookie": "./txt/bili_cookie.txt",
+                "json": "./json/哔哩相声.json"
+            },
+            "timeout": 20
+        },
+ 
+        {
             "key": "88看球",
             "name": "⚽88┃看球",
             "type": 3,
@@ -377,7 +418,90 @@
 			"filterable": 1,
 			"order_num": 0,
 			"ext": "./drpy_js/中华听书网[听].js"
-		}
+		},
+//带有加速
+      {
+            "key": "应用商店c",
+            "name": "🛒应用商店(仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jar/应用商店.txt"
+        },
+      {
+            "key": "应用商店gh",
+            "name": "🛒应用商店github(仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jar/应用商店.txt"
+        },
+      {
+            "key": "应用商店k",
+            "name": "🛒应用商店凯速网(仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://d.kstore.dev/download/7731/zyt/jar/应用商店.txt"
+        },
+      {
+            "key": "应用商店gt",
+            "name": "🛒应用商店gitee(仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/zyt/应用商店.txt"
+        },
+
+//不带加速
+      {
+            "key": "应用商店c(无加速)",
+            "name": "🛒应用商店(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jar/应用商店（无加速）.txt"
+        },
+      {
+            "key": "应用商店gh(无加速)",
+            "name": "🛒应用商店github(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://raw.kkgithub.com/jixiejishu/zyt/main/jar/应用商店（无加速）.txt"
+        },
+      {
+            "key": "应用商店k(无加速)",
+            "name": "🛒应用商店凯速网(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://d.kstore.dev/download/7731/zyt/jar/应用商店（无加速）.txt"
+        },
+      {
+            "key": "应用商店gt(无加速)",
+            "name": "🛒应用商店gitee(无加速，仅影视_Fongmi，部分手机软件闪退)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gitee.com/jixiejishu/zyt/raw/main/zyt/jar/应用商店（无加速）.txt"
+        }                
     ],
     "parses": [
         {
