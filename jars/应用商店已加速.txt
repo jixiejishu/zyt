@@ -97,9 +97,9 @@
 ]},
 {"name": "海阔世界","list": [
 {"name": "波澜投影","url": "https://d.kstore.dev/download/7731/apk/波澜投屏_V3.1_C39.apk","icon": "  ","version": "v3.1安卓4"},
-{"name": "波澜投影","url": "https://d.kstore.dev/download/7731/apk/波澜投屏_V4.1_C47.apk","icon": "  ","version": "v4.1安卓5以上"}
+{"name": "波澜投影","url": "https://d.kstore.dev/download/7731/apk/波澜投屏_V4.1_C47.apk","icon": "  ","version": "v4.1安卓5以上"},
 {"name": "海阔世界","url": "https://d.kstore.dev/download/7731/apk/海阔视界_V8.71_C5454_db53-64位.apk","icon": "  ","version": "8.71_64位注意更新"},
-{"name": "嗅觉浏览器","url": "https://d.kstore.dev/download/7731/apk/嗅觉浏览器_-6.71_C2228_db45-64位.apk","icon": "  ","version": "6.71_64位注意更新"},
+{"name": "嗅觉浏览器","url": "https://d.kstore.dev/download/7731/apk/嗅觉浏览器_-6.71_C2228_db45-64位.apk","icon": "  ","version": "6.71_64位注意更新"}
 ]},
 {"name": "AListFlutter","list": [
 {"name": "AListF32位","url": "https://ghp.ci/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "  ","version": "1.24.121301"},
