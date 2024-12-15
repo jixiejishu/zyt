@@ -81,7 +81,18 @@
 {"name": "壳助手TV","url": "https://d.kstore.dev/download/7731/apk/壳助手TV_1.7.4.3.apk","icon": "  ","version": "1.7.4.3"},
 {"name": "壳助手TVst","url": "https://d.kstore.dev/download/7731/apk/壳助手TVst.apk","icon": "  ","version": "闪退使用"},
 {"name": "壳助手手机","url": "https://d.kstore.dev/download/7731/apk/壳助手32_1.7.5.8.apk","icon": "  ","version": "32位1.7.5.8"},
-{"name": "壳助手手机","url": "https://d.kstore.dev/download/7731/apk/壳助手64.apk","icon": "  ","version": "64位"}
+{"name": "x-plore","url": "https://d.kstore.dev/download/7731/apk/x-plore_3_89.apk","icon": "  ","version": "3_89安卓4.03"},
+{"name": "x-plore","url": "https://d.kstore.dev/download/7731/apk/x-plore_4_30.apk","icon": "  ","version": "4.30安卓5.0"},
+{"name": "x-plore","url": "https://d.kstore.dev/download/7731/apk/x-plore_v4.39.00.apk","icon": "  ","version": "4.39"},
+{"name": "Apktool_M","url": "https://d.kstore.dev/download/7731/apk/Apktool_M_v2.4.0-241208(2024120802).apk","icon": "  ","version": "v2.4.0-241208"},
+{"name": "Total Commander","url": "https://www.totalcommander.ch/android/tcandroid350d-armeabi-v7a.apk","icon": "  ","version": "3.5.0_32位"},
+{"name": "Total Commander","url": "https://www.totalcommander.ch/android/tcandroid350d-arm64-v8a.apk","icon": "  ","version": "3.5.0_64位"},
+{"name": "Total Commander","url": "https://www.totalcommander.ch/android/tcandroid350d-x86.apk","icon": "  ","version": "x86_32位_3.5.0"},
+{"name": "Total Commander","url": "https://www.totalcommander.ch/android/tcandroid350d-x86_64.apk","icon": "  ","version": "x86_64位_3.5.0"},
+{"name": "MT官方版","url": "https://d.kstore.dev/download/7731/apk/MT2.17.0.apk","icon": "  ","version": "2.17"},
+{"name": "NP官方版","url": "http://normalplayer.top:8880/member/view/fileDownload/NP.apk","icon": "  ","version": "官方最新"},
+{"name": "ES浏览器","url": "https://d.kstore.dev/download/7731/apk/ES文件浏览器-4.4.1.12（黑鹰）.apk","icon": "  ","version": "4.4.1.12（黑鹰）"},
+{"name": "小白文件管理","url": "https://d.kstore.dev/download/7731/apk/小白文件管理器_2.8.0（TV版）.apk","icon": "  ","version": "2.8.0可推送文件"}
 ]},
 {"name": "AListFlutter","list": [
 {"name": "AListF32位","url": "https://ghp.ci/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "  ","version": "1.24.121301"},
