@@ -81,6 +81,7 @@
 {"name": "壳助手TV","url": "https://d.kstore.dev/download/7731/apk/壳助手TV_1.7.4.3.apk","icon": "  ","version": "1.7.4.3"},
 {"name": "壳助手TVst","url": "https://d.kstore.dev/download/7731/apk/壳助手TVst.apk","icon": "  ","version": "闪退使用"},
 {"name": "壳助手手机","url": "https://d.kstore.dev/download/7731/apk/壳助手32_1.7.5.8.apk","icon": "  ","version": "32位1.7.5.8"},
+{"name": "壳助手手机","url": "https://d.kstore.dev/download/7731/apk/壳助手64.apk","icon": "  ","version": "64位手机版"},
 {"name": "x-plore","url": "https://d.kstore.dev/download/7731/apk/x-plore_3_89.apk","icon": "  ","version": "3_89安卓4.03"},
 {"name": "x-plore","url": "https://d.kstore.dev/download/7731/apk/x-plore_4_30.apk","icon": "  ","version": "4.30安卓5.0"},
 {"name": "x-plore","url": "https://d.kstore.dev/download/7731/apk/x-plore_v4.39.00.apk","icon": "  ","version": "4.39"},
