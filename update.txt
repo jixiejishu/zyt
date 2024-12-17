@@ -12,3 +12,12 @@ api/moyulive.js
 本接口不考虑这些东西就没加密
 
 增加 戏曲 相声 
+
+2024.12.12版
+
+1.增加应用
+
+2.天天开心的lives全部更新
+天天开心 api内仍旧缺少drpy2.min.txt
+
+3.欧歌更新jars/豆瓣1.jar api/live.js
