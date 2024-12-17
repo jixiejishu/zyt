@@ -19,8 +19,8 @@
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/机顶盒.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/手机.png","version": "  "},
 {"name": "  ","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/安卓4.png","version": "  "},
-{"name": "海信版","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/x86.png","version": "  "},
-{"name": "X5离线版","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/影视.png","version": "  "}
+{"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/x86.png","version": "  "},
+{"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/影视.png","version": "  "}
 ]},
 {"name": "OK影视网络搜集（新版）","list": [
 {"name": "手机版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.3.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.3"},
@@ -175,4 +175,3 @@
 {"name": "v2VPNx86","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_64位"},
 {"name": "v2VPNx86","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_32位"}
 ]}
-]
