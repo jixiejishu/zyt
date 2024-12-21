@@ -1,10 +1,10 @@
 //应用商店已加速
 [
 {"name": "推荐","list": [
-{"name": "手机版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "电视版","url": "https://d.kstore.dev/download/7731/apk/OK影视-手机版-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "海信版","url": "https://d.kstore.dev/download/7731/apk/海信专版-OK影视-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "X5离线版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-X5离线-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
+{"name": "手机版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "电视版","url": "https://d.kstore.dev/download/7731/apk/OK影视-手机版-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "海信版","url": "https://d.kstore.dev/download/7731/apk/海信专版-OK影视-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "X5离线版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-X5离线-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
 {"name": "安卓4.X","url": "https://d.kstore.dev/download/7731/apk/安卓4.x-OK影视-X5离线-2.5.0.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.5.0"},
 {"name": "521TV版","url": "https://d.kstore.dev/download/7731/apk/521影视TV_1.4.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/521.png","version": "1.4.2"},
 {"name": "521手机版","url": "https://d.kstore.dev/download/7731/apk/521影视手机版_0.4.8m.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/521.png","version": "0.4.8"}
@@ -26,19 +26,19 @@
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zl/123云盘地址.png","version": "  "}
 ]},
 {"name": "OK影视网络搜集（新版）","list": [
-{"name": "手机版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "电视版","url": "https://d.kstore.dev/download/7731/apk/OK影视-手机版-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "海信版","url": "https://d.kstore.dev/download/7731/apk/海信专版-OK影视-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "X5离线版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-X5离线-2.6.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
+{"name": "手机版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "电视版","url": "https://d.kstore.dev/download/7731/apk/OK影视-手机版-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "海信版","url": "https://d.kstore.dev/download/7731/apk/海信专版-OK影视-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "X5离线版","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-X5离线-2.6.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
 {"name": "安卓4.X","url": "https://d.kstore.dev/download/7731/apk/安卓4.x-OK影视-X5离线-2.5.0.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.5.0"},
 {"name": "521TV版","url": "https://d.kstore.dev/download/7731/apk/521影视TV_1.4.2.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/521.png","version": "1.4.2"},
 {"name": "521手机版","url": "https://d.kstore.dev/download/7731/apk/521影视手机版_0.4.8m.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/521.png","version": "0.4.8"}
 ]},
 {"name": "内置版","list": [
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/内置版.png","version": ""},
-{"name": "电视内置","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.4_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "手机内置","url": "https://d.kstore.dev/download/7731/apk/OK影视-手机版-2.6.4_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
-{"name": "海信内置","url": "https://d.kstore.dev/download/7731/apk/海信专版-OK影视-2.6.4_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.4"},
+{"name": "电视内置","url": "https://d.kstore.dev/download/7731/apk/OK影视-电视版-2.6.5_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "手机内置","url": "https://d.kstore.dev/download/7731/apk/OK影视-手机版-2.6.5_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
+{"name": "海信内置","url": "https://d.kstore.dev/download/7731/apk/海信专版-OK影视-2.6.5_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.5"},
 {"name": "安卓4内置","url": "https://d.kstore.dev/download/7731/apk/安卓4.x-OK影视-X5离线-2.5.0_mod.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.5.0"}
 ]},
 {"name": "TVbox","list": [
@@ -187,4 +187,3 @@
 {"name": "v2VPNx86","url": "https://mirror.ghproxy.com/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_64位"},
 {"name": "v2VPNx86","url": "https://mirror.ghproxy.com/https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_32位"}
 ]}
-]
