@@ -431,6 +431,16 @@
             "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jars/应用商店已加速.png"
         },
       {
+            "key": "应用加速gitlab",
+            "name": "🛒应用加速gitlab(仅影视_Fongmi)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gitlab.com/jixiejishu/zyt/-/raw/main/jars/应用商店已加速.png"
+        },
+      {
             "key": "应用加速github",
             "name": "🛒应用加速github(仅影视_Fongmi)",
             "type": 3,
@@ -491,6 +501,16 @@
             "searchable": 0,
             "changeable": 0,
             "ext": "https://codeberg.org/jixiejishu/zyt/raw/branch/main/jars/应用商店.png"
+        },
+      {
+            "key": "应用gitlab",
+            "name": "🛒应用gitlab(仅影视_Fongmi)",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://gitlab.com/jixiejishu/zyt/-/raw/main/jars/应用商店.png"
         },
       {
             "key": "应用github",
