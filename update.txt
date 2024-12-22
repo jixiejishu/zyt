@@ -21,3 +21,7 @@ api/moyulive.js
 天天开心 api内仍旧缺少drpy2.min.txt
 
 3.欧歌更新jars/豆瓣1.jar api/live.js
+
+2024.12.22
+1.更新天天开心lives
+2.更新jars/豆瓣1.jar api/live.js 和应用商店.png
