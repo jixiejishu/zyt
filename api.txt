@@ -77,6 +77,12 @@
             "type": 0,
             "url": "./lives/③③备用斗鱼.txt",
             "epg": ""
+        },
+        {
+            "name": "③④16万MV",
+            "type": 0,
+            "url": "./lives/③④16万MV.txt",
+            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
         }
     ],
     "sites": [
@@ -422,7 +428,7 @@
 //带有加速
       {
             "key": "应用加速codeberg",
-            "name": "🛒应用加速codeberg(仅影视_Fongmi)",
+            "name": "🏬应用加速codeberg(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -432,7 +438,7 @@
         },
       {
             "key": "应用加速gitlab",
-            "name": "🛒应用加速gitlab(仅影视_Fongmi)",
+            "name": "🏬应用加速gitlab(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -442,7 +448,7 @@
         },
       {
             "key": "应用加速github",
-            "name": "🛒应用加速github(仅影视_Fongmi)",
+            "name": "🏬应用加速github(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -452,7 +458,7 @@
         },
       {
             "key": "应用加速ghp.ci代理",
-            "name": "🛒应用加速ghp.ci代理(仅影视_Fongmi)",
+            "name": "🏬应用加速ghp.ci代理(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -462,7 +468,7 @@
         },
       {
             "key": "应用加速欧歌代理",
-            "name": "🛒应用加速欧歌代理(仅影视_Fongmi)",
+            "name": "🏬应用加速欧歌代理(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -472,7 +478,7 @@
         },
       {
             "key": "应用加速凯速",
-            "name": "🛒应用加速凯速(仅影视_Fongmi)",
+            "name": "🏬应用加速凯速(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -482,7 +488,7 @@
         },
       {
             "key": "应用加速gitee",
-            "name": "🛒应用加速gitee(仅影视_Fongmi)",
+            "name": "🏬应用加速gitee(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -494,7 +500,7 @@
 //不带加速
       {
             "key": "应用codeberg",
-            "name": "🛒应用codeberg(仅影视_Fongmi)",
+            "name": "🏬应用codeberg(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -504,7 +510,7 @@
         },
       {
             "key": "应用gitlab",
-            "name": "🛒应用gitlab(仅影视_Fongmi)",
+            "name": "🏬应用gitlab(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -514,7 +520,7 @@
         },
       {
             "key": "应用github",
-            "name": "🛒应用github(仅影视_Fongmi)",
+            "name": "🏬应用github(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -524,7 +530,7 @@
         },
       {
             "key": "应用ghp.ci代理",
-            "name": "🛒应用ghp.ci代理(仅影视_Fongmi)",
+            "name": "🏬应用ghp.ci代理(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -534,7 +540,7 @@
         },
       {
             "key": "应用欧歌代理",
-            "name": "🛒应用欧歌代理(仅影视_Fongmi)",
+            "name": "🏬应用欧歌代理(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -544,7 +550,7 @@
         },
       {
             "key": "应用凯速",
-            "name": "🛒应用凯速(仅影视_Fongmi)",
+            "name": "🏬应用凯速(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
@@ -554,13 +560,25 @@
         },
       {
             "key": "应用gitee",
-            "name": "🛒应用gitee(仅影视_Fongmi)",
+            "name": "🏬应用gitee(仅影视_Fongmi)",
             "type": 3,
             "jar": "./jars/豆瓣1.jar",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
             "ext": "https://gitee.com/jixiejishu/zyt/raw/main/jars/应用商店.png"
+        },
+
+//欧歌应用商店
+        {
+            "key": "欧歌应用商店",
+            "name": "🛒欧歌应用商店",
+            "type": 3,
+            "jar": "./jars/豆瓣1.jar",
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": "https://nxog.top/公众号欧歌APP/ts/sd.php"
         }
     ],
     "parses": [
