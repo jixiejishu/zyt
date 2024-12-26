@@ -53,7 +53,7 @@
 {"name": "影视仓海信","url": "https://d.kstore.dev/download/7731/apk/影视仓_5.0.42（海信）.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/影视仓.png","version": "5.0.42海信"},
 {"name": "影视仓V3","url": "https://d.kstore.dev/download/7731/apk/影视仓V3（稳定版）-3.0.32_兼容安卓4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/影视仓.png","version": "安卓4稳定版"},
 {"name": "影视仓V3","url": "https://d.kstore.dev/download/7731/apk/影视仓V3（终结版）_3.0.36_有闪退BUG.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/影视仓.png","version": "安卓4最终版"},
-{"name": "影迷(手机）","url": "https://d.kstore.dev/download/7731/apk/影迷_2.5.2(竖屏版).apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/影迷.png","version": "2.5.2（手机）"},
+{"name": "影迷(手机）","url": "https://d.kstore.dev/download/7731/apk/影迷_2.6.0(竖屏版).apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/影迷.png","version": "2.6.0（手机）"},
 {"name": "Easybox","url": "https://d.kstore.dev/download/7731/apk/竖屏版_EasyBox_1.5.1.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/Easybox.png","version": "1.5.1(手机广告)"}
 ]},
 {"name": "电视软件","list": [
@@ -63,7 +63,8 @@
 {"name": "EasyTV","url": "https://gitee.com/AMuMuSir/easy_tv_live/releases/download/2.7.7/easyTV-2.7.7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.7.7手机gitee"},
 {"name": "央视浏览器","url": "https://github.com/Eanya-Tonic/CCTV_Viewer/releases/download/v1.7.3/v1.7.3.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/CCTV浏览器.png","version": "v1.7.3"},
 {"name": "央视浏览器","url": "https://github.com/Eanya-Tonic/CCTV_Viewer/releases/download/v1.7.3/v1.7.3_no_x5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/CCTV浏览器.png","version": "v1.7.3无x5"},
-{"name": "my-tv-0","url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0.1.3.8.14-kitkat.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "0.1.3.8.14"},
+{"name": "my-tv-0","url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0.1.3.8.14-kitkat.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "安卓4.x0.1.3.8.14"},
+{"name": "my-tv-0","url": "https://github.com/lizongying/my-tv-0/releases/download/v1.3.8.14-kitkat/my-tv-0-v1.0.4.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/my-tv-0.png","version": "v1.0.4"},
 {"name": "ourTV","url": "https://github.com/andandroidor/ourtv/releases/download/3.6.0/OurTV_3.6.0_android_tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/ourTV.png","version": "3.6.0"},
 {"name": "直-电视VIP","url": "https://github.com/vbskycn/iptv/releases/download/20241010/VIP20241010.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "v20241010"},
 {"name": "直-电视VIP","url": "https://github.com/vbskycn/iptv/releases/download/20241010/VIP20246666.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "防阻断20241010"},
@@ -138,6 +139,24 @@
 {"name": "AListF32位","url": "https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
 {"name": "AListF64位","url": "https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
 {"name": "x86_64位","url": "https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"}
+]},
+{"name": "Kodi","list": [
+{"name": "Kodi32位","url": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.1-Omega-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "v21.0"},
+{"name": "Kodi64位","url": "https://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-21.1-Omega-arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "v21.0"},
+{"name": "Kodix86","url": "https://www.kodi.org.cn/releases/21Omega/21.0/kodi-21.0-Omega-x86.exe","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "32位v21.0"},
+{"name": "Kodix86","url": "https://www.kodi.org.cn/releases/21Omega/21.0/kodi-21.0-Omega-x64.exe","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "64位v21.0"},
+{"name": "HDR增强","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodi21HDR10%2B/kodi-21-Omega-Beta2-armeabi-v7a-release-quietvoid-2023-12-10.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "32位v21.0"},
+{"name": "HDR增强","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodi21HDR10%2B/kodi-21-Omega-Beta2-arm64-v8a-release-quietvoid-2023-12-10.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "64位v21.0"},
+{"name": "java32位","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodi21java/kodiapp-armeabi-v7a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "32位v21.0"},
+{"name": "java64位","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodi21java/kodiapp-armeabi-v7a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "64位v21.0"},
+{"name": "德国增强","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodinerds21HDR10%2B/32kodinerds21.armeabi-v7a-202312220405-9e3e79dd-Omega.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "32位v21.0"},
+{"name": "德国增强","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodinerds21HDR10%2B/64kodinerds21.arm64-v8a-202312220518-9e3e79dd-Omega.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "64位v21.0"},
+{"name": "fireTV","url": "https://www.kodi.org.cn/releases/21Omega/Kodi21Beta2JQ/Kodinerds21HDR10%2B/kodinerds21.firetv.armeabi-v7a-202312220631-c62ab9c3-Omega.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "32位v21.0"},
+{"name": "fandangos","url": "https://github.com/fandangos/Kodi-HDR-Edition/releases/download/1.22/kodiapp-armeabi-v7a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "32位v21.0"},
+{"name": "fandangos","url": "https://github.com/fandangos/Kodi-HDR-Edition/releases/download/1.22/kodiapp-arm64-v8a-release-v1.22.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/Kodi.png","version": "64位v21.0"},
+{"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/蓝奏云资料.png","version": ""},
+{"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/小飞机资料.png","version": ""},
+{"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/kodi/123资料.png","version": ""}
 ]},
 {"name": "原版影视（fongmi,比公众号慢）","list": [
 {"name": "py64位","url": "https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/release/leanback-python-arm64_v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "python64位"},
