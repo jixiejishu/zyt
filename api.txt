@@ -1,5 +1,4 @@
-//直播、规则、jar来自于开心 
-
+//直播、规则、jar来自天天开心
 
 {
     "spider": "./spider.jar",
@@ -37,9 +36,21 @@
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {
+            "name": "IPTV每天两更(Guovin)",
+            "type": 0,
+            "url": "./lives/IPTV每天两更(Guovin).txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+        },
+        {
             "name": "IPTV研究所",
             "type": 0,
             "url": "./lives/IPTV研究所.txt",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+        },
+        {
+            "name": "4GTV（需要魔法）",
+            "type": 0,
+            "url": "./lives/4GTV（需要魔法）.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         },
         {
@@ -86,7 +97,7 @@
         }
     ],
     "sites": [
-{
+   {
             "key": "好趣网",
             "name": "🎦好趣网",
             "type": 3,
@@ -425,6 +436,9 @@
 			"order_num": 0,
 			"ext": "./drpy_js/中华听书网[听].js"
 		},
+
+ 
+
 //带有加速
       {
             "key": "应用加速codeberg",
