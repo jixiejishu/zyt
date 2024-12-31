@@ -28,3 +28,15 @@ api/moyulive.js
 2024.12.24
 1.修改应用商店符号。增加欧歌应用商店
 2.增加16万MV
+
+2024.12.25
+1.使用奇奇本地包的内容更新天天开心
+TVbox助手下载天天开心本地包，使用drpy2.min.txt
+2.摸鱼moyulive.js  lf_live.json
+
+
+2024.12.31
+1.天天开心 更新9lives文件
+2.摸鱼更新 api/moyulive.js
+3.jar 更新 jar和应用商店
+4.欧歌更新/api/live.js
