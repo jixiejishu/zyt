@@ -136,6 +136,13 @@
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zy/iptvindex.png","version": ""},
 {"name": "","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/zy/奇奇资源合集.png","version": ""}
 ]},
+{"name": "肥羊","list": [
+{"name": "OKPG","url": "https://d.kstore.dev/download/7731/apk/OKPG肥羊整合版_2024.12.13.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.3内置PG"},
+{"name": "天光云影","url": "https://d.kstore.dev/download/7731/apk/天光云影tv-3.3.7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/OKPG.png","version": "3.3.7"},
+{"name": "蓝奏云资料","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/蓝奏云资料.png","version": ""},
+{"name": "小飞机资料","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/小飞机资料.png","version": ""},
+{"name": "123网盘资料","url": "","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/123网盘资料.png","version": ""}
+]},
 {"name": "AListFlutter(Alist安卓版）","list": [
 {"name": "AListF32位","url": "https://mirror.ghproxy.com/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
 {"name": "AListF64位","url": "https://mirror.ghproxy.com/https://github.com/jing332/AListFlutter/releases/download/1.24.121301/AListF-v1.24.121301_arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Alist/AlistF.png","version": "1.24.121301"},
