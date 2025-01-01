@@ -138,7 +138,9 @@
 ]},
 {"name": "肥羊","list": [
 {"name": "OKPG","url": "https://d.kstore.dev/download/7731/apk/OKPG肥羊整合版_2024.12.13.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.3内置PG"},
+{"name": "OK肥羊","url": "https://d.kstore.dev/download/7731/apk/OK肥羊整合版_2024.12.17.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.3内置PG"},
 {"name": "天光云影","url": "https://d.kstore.dev/download/7731/apk/天光云影tv-3.3.7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/天光云影.png","version": "3.3.7"},
+{"name": "小飞电视","url": "https://d.kstore.dev/download/7731/apk/小飞电视(天光云影肥羊allinone)2.4.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/小飞电视.png","version": "2.4.5内置"},
 {"name": "蓝奏云资料","url": "https://d.kstore.dev/download/7731/apk/OKPG肥羊整合版_2024.12.13.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/蓝奏云资料.png","version": ""},
 {"name": "小飞机资料","url": "https://d.kstore.dev/download/7731/apk/OKPG肥羊整合版_2024.12.13.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/小飞机资料.png","version": ""},
 {"name": "123网盘资料","url": "https://d.kstore.dev/download/7731/apk/天光云影tv-3.3.7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/123网盘资料.png","version": ""}
