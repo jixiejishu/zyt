@@ -218,6 +218,7 @@
 {"name": "v2VPN","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_64位"},
 {"name": "v2VPN","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_32位"},
 {"name": "v2VPNx86","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_64位"},
-{"name": "v2VPNx86","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_32位"}
+{"name": "v2VPNx86","url": "https://github.com/bannedbook/v2ray.vpn/releases/download/v6.3.3/v2ray.vpn-6.3.3-play-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/v2r.webp","version": "6.3.3_32位"},
+{"name": "TGX","url": "https://github.com/TGX-Android/Telegram-X/releases/download/v0.26.9.1730/Telegram-X-0.26.9.1730.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/TX.png","version": "v0.26.9.1730"}
 ]}
 ]
