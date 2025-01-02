@@ -91,7 +91,6 @@
 {"name": "洛雪x86","url": "https://github.com/lyswhut/lx-music-mobile/releases/download/v1.6.0/lx-music-mobile-v1.6.0-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "1.6.0_32位"},
 {"name": "洛雪肥猫版","url": "https://d.kstore.dev/download/7731/apk/lx-music-mobile-v8.8.8-arm64-v8a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "64位手机版"},
 {"name": "洛雪肥猫版","url": "https://d.kstore.dev/download/7731/apk/lx-music-mobile-v8.8.8-armeabi-v7a.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "64位手机版"},
-{"name": "洛雪肥猫版","url": "https://d.kstore.dev/download/7731/apk/lx-music-mobile-v8.8.8-universal.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "32_64位手机版"},
 {"name": "洛雪肥猫版","url": "https://d.kstore.dev/download/7731/apk/lx-music-mobile-v8.8.8-x86.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "x86_32位"},
 {"name": "洛雪肥猫版","url": "https://d.kstore.dev/download/7731/apk/lx-music-mobile-v8.8.8-x86_64.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/lx.png","version": "x86_64位"},
 {"name": "酷狗概念版","url": "https://d.kstore.dev/download/7731/apk/酷狗概念版2.5.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/Music/酷狗.png","version": "2.5.5自动领取"},
@@ -138,7 +137,6 @@
 ]},
 {"name": "肥羊","list": [
 {"name": "OKPG","url": "https://d.kstore.dev/download/7731/apk/OKPG肥羊整合版_2024.12.13.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.3内置PG"},
-{"name": "OK肥羊","url": "https://d.kstore.dev/download/7731/apk/OK肥羊整合版_2024.12.17.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/fongmi/fongmi.png","version": "2.6.3内置PG"},
 {"name": "天光云影","url": "https://d.kstore.dev/download/7731/apk/天光云影tv-3.3.7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/天光云影.png","version": "3.3.7"},
 {"name": "小飞电视","url": "https://d.kstore.dev/download/7731/apk/小飞电视(天光云影肥羊allinone)2.4.5.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/小飞电视.png","version": "2.4.5内置"},
 {"name": "蓝奏云资料","url": "https://d.kstore.dev/download/7731/apk/OKPG肥羊整合版_2024.12.13.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/feiyang/蓝奏云资料.png","version": ""},
