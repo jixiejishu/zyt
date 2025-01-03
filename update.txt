@@ -40,3 +40,9 @@ TVbox助手下载天天开心本地包，使用drpy2.min.txt
 2.摸鱼更新 api/moyulive.js
 3.jar 更新 jar和应用商店
 4.欧歌更新/api/live.js
+
+2025.1.3
+1.天天开心更新全部文档
+2.摸鱼更新 api/moyulive.js
+3.jar 更新 jar和应用商店
+4.欧歌更新/api/live.js
