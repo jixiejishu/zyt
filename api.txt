@@ -5,96 +5,303 @@
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "logo": "http://php.540734621.xyz/logo/logo.php",
     "lives": [
-        {
-            "name": "①live(EXO)",
-            "type": 0,
-            "url": "./lives/①live(EXO).txt",
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-        },
-        {
-            "name": "②Live(IJK)",
-            "type": 0,
-            "url": "./lives/②Live(IJK).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "③猫TV线路(EXO)",
-            "type": 0,
-            "url": "./lives/③猫TV线路(EXO).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "④猫TV线路(IJK)",
-            "type": 0,
-            "url": "./lives/④猫TV线路(IJK).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "新AKTV港台",
-            "type": 0,
-            "url": "./lives/新AKTV港台.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
+    
+//5.Guovin质量很好
+//项目地址:https://github.com/Guovin/iptv-api
         {
             "name": "IPTV每天两更(Guovin)",
             "type": 0,
-            "url": "./lives/IPTV每天两更(Guovin).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//4.kakaxi质量很好
+//项目地址:https://github.com/kakaxi-1/IPTV
+//官网:https://live.kakaxi-1.ink/
+        {
+            "name": "kakaxiipv4",
+            "type": 0,
+            "url": "https://live.kakaxi-1.ink/iptv.txt",
+            "epg": "https://live.kakaxi-1.ink/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "IPTV研究所",
+            "name": "kakaxiipv6",
             "type": 0,
-            "url": "./lives/IPTV研究所.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://live.kakaxi-1.ink/ipv6.m3u",
+            "epg": "https://live.kakaxi-1.ink/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//2.suxuang质量一般
+//项目地址:https://github.com/suxuang/myIPTV
+        {
+            "name": "suxuang",
+            "type": 0,
+            "url": "https://ghgo.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//3.yuanzl77质量一般，可能是https://github.com/Guovin/iptv-api的修改版
+//项目地址:https://github.com/yuanzl77/IPTV
+//官网:https://yuanzl77.github.io/
+        {
+            "name": "yuanzl77每天两更(Guovin)",
+            "type": 0,
+            "url": "http://175.178.251.183:6689/live.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+
+//7.fanmingming著名项目质量差点com和cn都可以用。fanminming的代理是fireclod需要验证，tvbox无法直接调用
+//项目地址:https://github.com/fanmingming/live
+//官网:https://live.fanmingming.com/
+        {
+            "name": "fanmingmingipv4",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
+            "epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "4GTV（需要魔法）",
+            "name": "fanmingmingipv6",
             "type": 0,
-            "url": "./lives/4GTV（需要魔法）.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
+            "epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
+            "name": "fanmingming收音机",
             "type": 0,
-            "url": "./lives/抖音、斗鱼、B站、YY、Afreeca、Youtube.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u",
+            "epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//8.vbskycn著名项目
+//项目地址:https://github.com/vbskycn/iptv
+//官网:https://live.zbds.top/
+        {
+            "name": "vbskycnipv4",
+            "type": 0,
+            "url": "https://live.zbds.top/tv/iptv4.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "广东银河频道",
+            "name": "vbskycnipv6",
             "type": 0,
-            "url": "./lives/广东银河频道.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+            "url": "https://live.zbds.top/tv/iptv6.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//9.AKTV 港台界面 tvbox使用正常，其它软件播放会被屏蔽
+//官网:https://aktv.top/
+        {
+            "name": "AKTV港台ipv4",
+            "type": 0,
+            "url": "http://aktv.top/live.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//10.YanG-1989
+//加载很慢选择之后退出软件重新打开
+//项目地址：https://github.com/YanG-1989/m3u
+//官网:https://tv.iill.top/m3u/Live
+//官网:https://yang-1989.eu.org/
+        {
+            "name": "YanG-1989直播github",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "⑪V6明线路",
+            "name": "YanG-1989电视选择后退出重新打开软件",
             "type": 0,
-            "url": "./lives/⑪V6明线路.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+            "url": "https://tv.iill.top/m3u/Gather",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "②⑥范明线路",
+            "name": "YanG-1989网络直播选择后退出重新打开软件",
             "type": 0,
-            "url": "./lives/②⑥范明线路.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+            "url": "https://tv.iill.top/m3u/Live",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "③②备用虎牙",
+            "name": "YanG-1989体育选择后退出重新打开软件",
             "type": 0,
-            "url": "./lives/③②备用虎牙.txt",
-            "epg": ""
+            "url": "https://tv.iill.top/m3u/Sport",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "③③备用斗鱼",
+            "name": "YanG-1989MyTV选择后退出重新打开软件",
             "type": 0,
-            "url": "./lives/③③备用斗鱼.txt",
-            "epg": ""
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//11.YueChan
+//更新比较慢
+//项目地址：https://github.com/YueChan/Live
+        {
+            "name": "YueChan",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "③④16万MV",
+            "name": "YueChan收音机",
             "type": 0,
-            "url": "./lives/③④16万MV.txt",
-            "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
-        }
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//12.Kimentanm
+//加载很慢选择之后退出软件重新打开
+//项目地址：https://github.com/YanG-1989/m3u
+//官网:https://tv.iill.top/m3u/Live
+        {
+            "name": "Kimentanmaptv",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "Kimentanm收音机",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//15.传说引导页
+//不定期更新，有很多接口
+//官网http://iptv.qoo.us.kg/
+//官网http://tvbox.gert.li/
+        {
+            "name": "传说引导页",
+            "type": 0,
+            "url": "http://kkk.jjjj.jiduo.me/user/tttt/api.txt",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//18.kilvn
+//日更
+//项目地址:https://github.com/kilvn/IPTV
+//官网https://live.kilvn.com/
+        {
+            "name": "kilvn每天自动更新",
+            "type": 0,
+            "url": "https://live.kilvn.com/iptv.m3u",
+            "epg": " https://live.kilvn.com/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "kilvn收音机每天自动更新",
+            "type": 0,
+            "url": "https://live.kilvn.com/radio.m3u",
+            "epg": " https://live.kilvn.com/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//22.jisoypub
+//实时更新
+//项目地址:https://github.com/jisoypub/iptv
+//官网：https://mac-cms.com/ 空壳影视
+        {
+            "name": "jisoypubipv4实时更新",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u",
+            "epg": " https://live.kilvn.com/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "jisoypubipv6实时更新",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u",
+            "epg": " https://live.kilvn.com/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "jisoypub收音机实时更新",
+            "type": 0,
+            "url": "https://ghgo.xyz/raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u",
+            "epg": " https://live.kilvn.com/epg.xml/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//23.IPTV研究所
+//有非常多的项目 全部 4GTV 主播直播
+//项目地址:https://www.mytvsuper.com.mp/
+        {
+            "name": "IPTV研究所所有",
+            "type": 0,
+            "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "IPTV研究所4GTV",
+            "type": 0,
+            "url": "https://www.mytvsuper.com.mp/m3u/4GTV.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "IPTV研究所直播",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Live",
+            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
+        },
+//天天开心中去掉已经包含的接口，选择后退出重新打开软件
+ {
+      "name": "③猫TV线路(EXO)选择后退出重新打开软件",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "④猫TV线路(IJK)选择后退出重新打开软件",
+      "type": 0,
+      "url": "http://rihou.cc:567/gggg.nzk",
+      "playerType": 1,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "广东银河频道选择后退出重新打开软件",
+      "type": 0,
+      "url": "https://tzdr.com/iptv.txt",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "③②备用虎牙选择后退出重新打开软件",
+      "type": 0,
+      "url": "http://www.52sw.top:678/iptv/huya.m3u"
+    },
+    {
+      "name": "③③备用斗鱼选择后退出重新打开软件",
+      "type": 0,
+      "url": "http://www.52sw.top:678/iptv/douyu.m3u"
+    },
+    {
+      "name": "③④16万MV选择后退出重新打开软件",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
+    }
+
+
     ],
     "sites": [
   {
