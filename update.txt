@@ -47,5 +47,5 @@ TVbox助手下载天天开心本地包，使用drpy2.min.txt
 3.jar 更新 jar和应用商店
 4.欧歌更新/api/live.js
 5.删除lives所有内容。api.txt内的lives 添加搜集的网络内容。
-6.api.txt 模仿天天开心把点播内容添加到直播上增加live_json.txt
+6.api.txt 模仿天天开心把点播内容添加到直播上增加几个json的文件
 7.增加清单

@@ -1,5 +1,5 @@
 zyt:
-api.txt 天天开心+修改
+api.txt api.txt1 api.txt2 api.txt3 ：天天开心+修改
 spider 天天开心
 自制：README.MD 本地包制作与使用.txt 接口文件清单.txt
 
@@ -25,7 +25,7 @@ json：
 除下面几个全部来自天天开心/json
 lf_live.json 高天流云
 live2cms.json 道长
-live_json.txt 自制
+ghgojson.txt moeyy加速json.txt 刘老备加速json.txt  欧歌加速json.txt 自制
 
 lib:
 lf_live_min.js 高天流云
@@ -54,11 +54,11 @@ json/live2cms.json 道长
 
 自制：
 zyt 文件夹：
-api.txt README.MD 本地包制作与使用.txt 接口文件清单.txt
+api.txt api.txt1 api.txt2 api.txt3 README.MD 本地包制作与使用.txt 接口文件清单.txt
 jars：
 应用商店.png和 应用商店已加速.png自制
 json:
-live_json.txt 
+ghgojson.txt moeyy加速json.txt 刘老备加速json.txt  欧歌加速json.txt
 
 天天开心：
 api：全部有时候会缺少drpy2.min.txt
