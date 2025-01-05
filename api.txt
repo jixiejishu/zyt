@@ -47,7 +47,7 @@
 //项目地址:https://github.com/yuanzl77/IPTV
 //官网:https://yuanzl77.github.io/
         {
-            "name": "yuanzl77每天两更(Guovin)",
+            "name": "yuanzl77每天两更",
             "type": 0,
             "url": "http://175.178.251.183:6689/live.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -120,28 +120,28 @@
             "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YanG-1989电视选择后退出重新打开软件",
+            "name": "YanG-1989电视有时打不开",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YanG-1989网络直播选择后退出重新打开软件",
+            "name": "YanG-1989网络直播有时打不开",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Live",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YanG-1989体育选择后退出重新打开软件",
+            "name": "YanG-1989体育有时打不开",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Sport",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "YanG-1989MyTV选择后退出重新打开软件",
+            "name": "YanG-1989MyTV有时打不开",
             "type": 0,
             "url": "https://tv.iill.top/m3u/MyTV",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -254,16 +254,9 @@
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "http://diyp2.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "IPTV研究所直播",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Live",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "http://diyp2.112114.xyz/logo/{name}.png"
-        },
-//天天开心中去掉已经包含的接口，选择后退出重新打开软件
+//天天开心中去掉已经包含的接口，有时打不开
  {
-      "name": "③猫TV线路(EXO)选择后退出重新打开软件",
+      "name": "天天开心猫TV线路(EXO)有时打不开",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 2,
@@ -272,7 +265,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "④猫TV线路(IJK)选择后退出重新打开软件",
+      "name": "天天开心猫TV线路(IJK)有时打不开",
       "type": 0,
       "url": "http://rihou.cc:567/gggg.nzk",
       "playerType": 1,
@@ -281,7 +274,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "广东银河频道选择后退出重新打开软件",
+      "name": "广东银河频道有时打不开",
       "type": 0,
       "url": "https://tzdr.com/iptv.txt",
       "playerType": 2,
@@ -290,19 +283,27 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "③②备用虎牙选择后退出重新打开软件",
+      "name": "天天开心备用虎牙有时打不开",
       "type": 0,
       "url": "http://www.52sw.top:678/iptv/huya.m3u"
     },
     {
-      "name": "③③备用斗鱼选择后退出重新打开软件",
+      "name": "天天开心备用斗鱼有时打不开",
       "type": 0,
       "url": "http://www.52sw.top:678/iptv/douyu.m3u"
     },
 //天天开心线路提取，已经停更
 //项目地址：https://github.com/lystv/short/tree/main/影视/tvb
     {
-      "name": "③④16万MV选择后退出重新打开软件",
+      "name": "天天开心16万MV",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
+    },
+//天天开心json/lf_live.json提取
+    {
+      "name": "天天开心超级MV有时打不开",
       "type": 0,
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -311,7 +312,7 @@
 //饭太硬线路提取，更新比较慢
 //项目地址：https://github.com//MemoryCollection/IPTV
     {
-      "name": "MemoryCollection",
+      "name": "饭太硬MemoryCollection",
       "type": 0,
       "url": "https://ghgo.xyz/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
       "playerType": 1,
@@ -331,6 +332,17 @@
             "filterable": 1,
             "order_num": 87,
             "ext": "./js/好趣网.js"
+        },
+        {
+            "key": "live_json",
+            "name": "📺︎网络搜索直播(仅支持影视/fongmi)",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "./api/lf_live10_min-output.js",
+            "ext": "./json/live_json.txt"
         },
         {
             "key": "lf_live10_min",
