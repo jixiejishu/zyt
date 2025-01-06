@@ -504,16 +504,6 @@
             "ext": "./json/lf_live.json"
         },
         {
-            "key": "直播转点播",
-            "name": "📺电视┃直播(欧歌)",
-            "type": 3,
-            "api": "./api/live.js",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://o.nxog.top/m//json/live.php?ou=公众号欧歌APP"
-        },
-        {
             "key": "直播转点播（摸鱼）",
             "name": "📺️IPV6┃电视┃直播(摸鱼)",
             "type": 3,

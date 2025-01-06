@@ -6,7 +6,8 @@ spider 天天开心
 api：
 除下面几个全部来自天天开心/api,有时候会缺少drpy2.min.txt
 moyulive.js摸鱼
-live.js 欧歌
+
+live.js 欧歌//2025.1.5删除直播转点播
 
 drpy_js：
 道长
@@ -40,7 +41,8 @@ txt：
 api/moyulive.js
 欧歌：
 jars/豆瓣1.jar  
-api/live.js  
+
+api/live.js  //2025.1.5删除直播转点播
 
 高天流云：
 js/lf_live.txt
