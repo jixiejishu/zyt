@@ -53,3 +53,8 @@ TVbox助手下载天天开心本地包，使用drpy2.min.txt
 2025.1.5
 1.欧歌更新jar  删除api/live.js ，更新应用商店.png    更新应用商店已加速.png   
 2.api.txt   api.txt1  api.txt2  api.txt3   删除欧歌直播转点播
+
+2025.1.9
+1.由于已经没有天天开心的本地包。接口的文件和jar 更换为潇洒的本地包
+1.道长更新 、
+2.欧歌更新jar 
