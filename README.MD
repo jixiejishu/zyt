@@ -23,7 +23,6 @@ https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga
 
 
 下面是加上加速地址，可以直接使用：   
-https://cdn.jsdelivr.net/gh/jixiejishu/zyt@main/api.pnga   
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga    
 https://ghgo.xyz/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga      
 
