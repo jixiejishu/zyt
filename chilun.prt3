@@ -5,14 +5,8 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
-        {
-            "key": "豆瓣",
-            "name": "豆瓣｜首页",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 0
-        },
-//注意最后一个站点没有分隔符,  如果后面还有站点需要自己添加
+
+//首页的豆瓣加载非常慢，而且用处不大。注意最后一个站点没有分隔符,  如果后面还有站点需要自己添加。
 
 //1好趣网
 //好趣网道长
