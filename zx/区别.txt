@@ -2,3 +2,12 @@ fm=肥猫宝贝欧歌版
 ffy=饭太硬欧歌版
 og=欧歌
 xm=小米欧歌版
+
+通过更改后缀切换不同的加速平台：
+api.pnga=https://ghgo.xyz
+后面加1
+api.pnga1=https://mirror.ghproxy.com/
+后面加2
+api.pnga2=借用刘老备加速
+后面加3
+api.pnga3=借用欧歌加速
