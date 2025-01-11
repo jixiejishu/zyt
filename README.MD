@@ -1,5 +1,5 @@
 # 项目简介  
-内容来自于奇奇、道长的本地包和高天流云的线路  
+内容来自于奇奇、道长的本地包。以及欧歌的线路内容。  
 项目主要是 下面三种：  
 z=直播  y=优爱腾 t=体育   
 
@@ -7,13 +7,13 @@ z=直播  y=优爱腾 t=体育
 由于电视内容都需要加速使用了不同的加速平台。 
 
 通过更改后缀切换不同的加速平台：  
-api.pnga=https://ghgo.xyz   
+api.pnga=https://ghgo.xyz   加速
 后面加1    
-api.pnga1=https://mirror.ghproxy.com/  
+api.pnga1=https://mirror.ghproxy.com/  加速
 后面加2    
-api.pnga2=借用刘老备加速   
+api.pnga2=借用欧歌加速  
 后面加3      
-api.pnga3=借用欧歌加速   
+api.pnga3=借用刘老备加速 
 
 
 ## 接口地址：
