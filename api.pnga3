@@ -682,6 +682,39 @@
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "danmu": true
             }
+        },
+{
+            "key": "Market直链欧歌",
+            "name": "應用商店-直链欧歌",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_Market",
+            "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/lystv/fmapp/app/yysd-zl.json"
+        },
+{
+            "key": "Market直链ghgo",
+            "name": "應用商店-直链ghgo",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_Market",
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lystv/fmapp/app/yysd-zl.json"
+        },
+
+{
+            "key": "Market应用已加速-潇洒",
+            "name": "应用已加速-潇洒",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_Market",
+            "ext": "./jars/应用已加速.png"
+        },
+{
+            "key": "Market应用-潇洒",
+            "name": "应用-潇洒",
+            "type": 3,
+            "changeable": 0,
+            "api": "csp_Market",
+            "ext": "./jars/应用.png"
         }
     ],
     "parses": [
