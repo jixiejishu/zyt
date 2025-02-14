@@ -1,0 +1,9 @@
+//本地包
+[
+{"name": "推荐","list": [
+{"name": " ","url": " ","icon": "https://jihulab.com/fourd/FourD/-/raw/main/莫比乌斯环.jpg","version": " "}
+]},
+{"name": "本地包","list": [
+{"name": "奇奇","url": "https://gitlab.com/tvboxinformation/tvboxzip/-/raw/main/qiqi/%E5%A5%87%E5%A5%87_20250213.zip","icon": " ","version": "20250213"}
+]}
+]
