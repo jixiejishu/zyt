@@ -723,16 +723,6 @@
             "changeable": 0,
             "api": "csp_Market",
             "ext": "./jars/应用.png"
-        },
-        {
-            "key": "本地包",
-            "name": "本地包",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "./本地包接口.txt"
         }
     ],
     "parses": [
