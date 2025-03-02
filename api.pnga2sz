@@ -419,7 +419,6 @@
 
 
 
-
 //7体育
 
 //7.og 欧歌家庭(模拟器可能不支持)
@@ -734,15 +733,20 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "./本地包接口.txt"
-        }，
-
-
+            "ext": "./本地包接口1.txt"
+        },
 
 //云星日记无忧
-{"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"}
-
-
+{"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"},
+{"key":"神州本地更新",
+"name":"📂神州本地更新",
+"type":3,
+"jar":"https://pan.beecld.com/f/zGeCN/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar",
+"api":"csp_Market",
+"searchable":0,
+"changeable":0,
+"indexs":0,
+"ext":"https://6758.kstore.space/6758.txt"}
     ],
     "parses": [
         {
@@ -1113,7 +1117,7 @@
 {
 "name":"IPTV每天两更Guovintxt",
 "type": 0,
-"url": "https://raw.kkgithub.com/Guovin/iptv-api/gd/output/result.txt",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1122,7 +1126,7 @@
 {
 "name":"IPTV每天两更Guovinm3u",
 "type": 0,
-"url": "https://raw.kkgithub.com/Guovin/iptv-api/gd/output/result.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1155,7 +1159,7 @@
 {
 "name":"suxuang",
 "type": 0,
-"url": "https://raw.kkgithub.com/suxuang/myIPTV/main/ipv6.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1189,29 +1193,29 @@
 {
 "name":"fanmingmingipv4",
 "type": 0,
-"url": "https://raw.kkgithub.com/fanmingming/live/main/tv/m3u/itv.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u",
 
 
 "epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}",
-"logo": "https://raw.kkgithub.com/fanmingming/live/main/tv/{name}.png"
+"logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
 },
 {
 "name":"fanmingmingipv6",
 "type": 0,
-"url": "https://raw.kkgithub.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
 
 
 "epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}",
-"logo": "https://raw.kkgithub.com/fanmingming/live/main/tv/{name}.png"
+"logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
 },
 {
 "name":"fanmingming收音机",
 "type": 0,
-"url": "https://raw.kkgithub.com/fanmingming/live/main/radio/m3u/fm.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u",
 
 
 "epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}",
-"logo": "https://raw.kkgithub.com/fanmingming/live/main/tv/{name}.png"
+"logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
 },
 //8.vbskycn著名项目有直播APP
 //项目地址:https://github.com/vbskycn/iptv
@@ -1281,7 +1285,7 @@
 {
 "name":"YanG-1989直播github",
 "type": 0,
-"url": "https://raw.kkgithub.com/YanG-1989/m3u/main/Gather.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1329,7 +1333,7 @@
 {
 "name":"YueChan",
 "type": 0,
-"url": "https://raw.kkgithub.com/YueChan/Live/main/APTV.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1338,7 +1342,7 @@
 {
 "name":"YueChan收音机",
 "type": 0,
-"url": "https://raw.kkgithub.com/YueChan/Live/main/Radio.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1350,7 +1354,7 @@
 {
 "name":"Kimentanmaptv",
 "type": 0,
-"url": "https://raw.kkgithub.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1359,7 +1363,7 @@
 {
 "name":"Kimentanm收音机",
 "type": 0,
-"url": "https://raw.kkgithub.com/Kimentanm/aptv/master/m3u/radio.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1408,7 +1412,7 @@
 {
 "name":"jisoypubipv4实时更新",
 "type": 0,
-"url": "https://raw.kkgithub.com/jisoypub/iptv/main/ipv4.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1417,7 +1421,7 @@
 {
 "name":"jisoypubipv6实时更新",
 "type": 0,
-"url": "https://raw.kkgithub.com/jisoypub/iptv/main/ipv6.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1426,7 +1430,7 @@
 {
 "name":"jisoypub收音机实时更新",
 "type": 0,
-"url": "https://raw.kkgithub.com/jisoypub/iptv/main/radio.m3u",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u",
 
 
 "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -1504,7 +1508,7 @@
 {
 "name":"天天开心16万MV",
 "type": 0,
-"url": "https://raw.kkgithub.com/lystv/short/main/影视/tvb/MTV.txt",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
 
 
 "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -1525,11 +1529,11 @@
 {
 "name":"饭太硬MemoryCollection",
 "type": 0,
-"url": "https://raw.kkgithub.com/MemoryCollection/IPTV/main/multicast.txt",
+"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
 
 
 
-"logo": "https://raw.kkgithub.com/fanmingming/live/main/tv/{name}.png"
+"logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
 }
 
 

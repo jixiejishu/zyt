@@ -32,7 +32,15 @@ https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga
 gitlab:   
 https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga   
 
-
+## 本地包获取        
+本地包在线获取：    
+点击接口内的站点“本地包”  选择本地包，点击接口下载。然后接口输入本地包接口地址即可。  
+本地包依赖上传，可能更新不太及时。  
+其中奇奇的本地包部分包可能缺少一些文件导致不能使用，原版的奇奇本地包就有这个问题。    
+点击接口内的站点“无忧本地更新”  无忧的本地包：  
+其中Pg 解压路径是 TVbox/Pg ，并且为了防止盗用，下载的本地包不是完整版，需要搭配无忧本地包使用。  
+PG内置的肥羊支持模拟器  
+注意！！！！真心包，无忧接口内没有，包会直接解压到根目录。不要使用。  
 
 ## 潇洒本地包    
 单线路   
@@ -66,5 +74,59 @@ file://TVBoxOSC/本地仓/影视.txt
 4、更新完成后会有提示   
 5、最后重启软件即可  
 
+
+
+## 无忧地包    
+
+单线路：  
+接口配置:   
+************************************************************************  
+纯本地接口:  
+clan://localhost/TVBox/lib/无忧TV.json  
+clan://localhost/TVBox/lib/无忧.json  
+clan://localhost/TVBox/lib/无忧ali.json  
+clan://localhost/TVBox/lib/弯弯.json  
+clan://localhost/TVBox/Hk/XYQTVBox.txt  
+clan://localhost/TVBox/JS/js.json  
+clan://localhost/TVBox/py/py.txt  
+clan://localhost/TVBox/lib/动漫.txt  
+clan://localhost/TVBox/lib/云星家庭.json  
+clan://localhost/TVBox/lib/肥猫.txt  
+clan://localhost/TVBox/lib/无名1.txt  
+clan://localhost/TVBox/lib/夜魔.txt  
+clan://localhost/TVBox/lib/cms.txt  
+
+***************************************************************************  
+半本地接口:   
+
+clan://localhost/TVBox/lib/运输车.txt  
+clan://localhost/TVBox/lib/菜妮丝.txt  
+clan://localhost/TVBox/lib/巧计.txt  
+clan://localhost/TVBox/lib/唐三.txt  
+clan://localhost/TVBox/lib/俊佬.txt  
+clan://localhost/TVBox/lib/老刘备.json  
+clan://localhost/TVBox/lib/多多.txt  
+clan://localhost/TVBox/lib/南风XC.json  
+clan://localhost/TVBox/lib/月光.json  
+clan://localhost/TVBox/lib/分享者.json  
+clan://localhost/TVBox/lib/饭太硬.txt  
+clan://localhost/TVBox/lib/小马.txt  
+
+
+
+*****************************************************************************  
+
+单仓（多线路）配置接口:   
+
+影视仓等：
+ 本地单仓 (备用): clan://localhost/TVBox/本地仓库.json   
+ 在线单仓 (备用):  clan://localhost/TVBox/lib/zx.json   
+
+影视、OK影视等：  
+ 本地单仓 (备用):  file://TVBox/lib/本地仓库.json    
+ 在线单仓 (备用):  file://TVBox/lib/zx.json   
+
+多仓库配置接口：
+❤️本地+在线多仓 (优选):  clan://localhost/TVBox/lib/ksck.json   
 
 

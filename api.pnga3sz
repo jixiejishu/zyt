@@ -734,15 +734,20 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "./本地包接口.txt"
-        }，
-
-
+            "ext": "./本地包接口1.txt"
+        },
 
 //云星日记无忧
-{"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"}
-
-
+{"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"},
+{"key":"神州本地更新",
+"name":"📂神州本地更新",
+"type":3,
+"jar":"https://pan.beecld.com/f/zGeCN/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar",
+"api":"csp_Market",
+"searchable":0,
+"changeable":0,
+"indexs":0,
+"ext":"https://6758.kstore.space/6758.txt"}
     ],
     "parses": [
         {
