@@ -87,7 +87,9 @@
 {"name": "直-电视VIP","url": "https://github.com/vbskycn/iptv/releases/download/20241010/VIP20246666.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/直-电视.png","version": "防阻断20241010"},
 {"name": "派大星","url": "https://pan.beecld.com/f/pww9Hq/%EF%BC%88%E7%A9%BA%E5%A3%B3%EF%BC%89%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4-_1.0.7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/派大星.png","version": "1.0.7"},
 {"name": "jade直播","url": "https://pan.beecld.com/f/BkkPcQ/Jade_SHJ_LIVE_%E4%BF%AE%E6%94%B9%E9%BB%98%E8%AE%A4LJK.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tvbox/jade.png","version": "_202412082028"},
-{"name": "酷9","url": "https://pan.beecld.com/f/0QQzUy/%E9%85%B79_1.6.5.4_20250212%E9%80%82%E9%85%8D%E7%94%B5%E8%A7%86%E5%A4%A7%E5%AD%97%E5%88%97%E8%A1%A8%E5%8A%A0%E5%AE%BD%E5%8F%B0%E6%A0%87%E5%8A%A0%E5%A4%A7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/酷9.png","version": "1.6.5.4"}
+{"name": "酷9","url": "https://pan.beecld.com/f/0QQzUy/%E9%85%B79_1.6.5.4_20250212%E9%80%82%E9%85%8D%E7%94%B5%E8%A7%86%E5%A4%A7%E5%AD%97%E5%88%97%E8%A1%A8%E5%8A%A0%E5%AE%BD%E5%8F%B0%E6%A0%87%E5%8A%A0%E5%A4%A7.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/酷9.png","version": "1.6.5.4"},
+{"name": "DIYP","url": "https://pan.beecld.com/f/okOdT8/%EF%BC%88%E7%A9%BA%E5%A3%B3%EF%BC%89DIYP%E5%BD%B1%E9%9F%B3_5.2.0.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/DIYP.png","version": "5.2.0"},
+{"name": "百川影音","url": "https://pan.beecld.com/f/d1XqfN/%EF%BC%88%E7%A9%BA%E5%A3%B3%EF%BC%89%E7%99%BE%E5%B7%9D%E5%BD%B1%E9%9F%B3_1.1.97.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/百川影音.png","version": "1.1.97"}
 ]},
 {"name": "电视软件(网盘）","list": [
 {"name": "EasyTV","url": "https://pan.beecld.com/f/NOw5hw/easyTV-2.9.1-tv.apk","icon": "https://gitee.com/jixiejishu/tvbox/raw/master/apk/logo/tv/极简TV.png","version": "2.9.1"},
