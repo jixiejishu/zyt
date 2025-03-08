@@ -658,7 +658,7 @@
 //欧歌应用商店潇洒本地包
         {
             "key": "潇洒本地包",
-            "name": "🛒欧歌潇洒本地包",
+            "name": "🛒欧歌本地包",
             "type": 3,
             "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
             "api": "csp_Market",
@@ -741,7 +741,69 @@
 
 //云星日记无忧
 {"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"},
-{"key": "无忧Pg本地更新","name": "📂无忧Pg本地备用","type": 3,"jar": "https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://d.kstore.dev/download/11474/market.json"}
+{"key": "无忧Pg本地更新","name": "📂无忧Pg本地备用","type": 3,"jar": "https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://d.kstore.dev/download/11474/market.json"},
+//UC 夸克 阿里 哔哩哔哩
+       {
+            "key": "网盘配置中心",
+            "name": "网盘配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+       {
+            "key": "我的阿里网盘",
+            "name": "我的｜阿里网盘",
+            "type": 3,
+            "api": "csp_MyAli",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的夸克网盘",
+            "name": "我的｜夸克网盘",
+            "type": 3,
+            "api": "csp_MyQuark",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的UC网盘",
+            "name": "我的｜UC网盘",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        }
 
 
     ],

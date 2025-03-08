@@ -655,7 +655,7 @@
 //欧歌应用商店潇洒本地包
         {
             "key": "潇洒本地包",
-            "name": "🛒欧歌潇洒本地包",
+            "name": "🛒欧歌本地包",
             "type": 3,
             "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
             "api": "csp_Market",
@@ -745,7 +745,69 @@
 "searchable":0,
 "changeable":0,
 "indexs":0,
-"ext":"https://gitee.com/yiwu369/6758/raw/master/6758.txt"}
+"ext":"https://gitee.com/yiwu369/6758/raw/master/6758.txt"},
+//UC 夸克 阿里 哔哩哔哩
+       {
+            "key": "网盘配置中心",
+            "name": "网盘配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+       {
+            "key": "我的阿里网盘",
+            "name": "我的｜阿里网盘",
+            "type": 3,
+            "api": "csp_MyAli",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的夸克网盘",
+            "name": "我的｜夸克网盘",
+            "type": 3,
+            "api": "csp_MyQuark",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "我的UC网盘",
+            "name": "我的｜UC网盘",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"
+            },
+            "style": {
+                "type": "list"
+            }
+        }
     ],
     "parses": [
         {
