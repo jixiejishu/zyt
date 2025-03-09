@@ -15,9 +15,20 @@ api.pnga2=借用欧歌加速
 后面加3      
 api.pnga3=借用刘老备加速   
 
-2025.3.7版之后的潇洒包，可以把apk转存到 阿里 UC 夸克  网盘内。然后在接口内登录之后从网盘内安装。  
+
+************************************************************************    
+应用商店使用注意：  
+1）仅支持影视（fongmi）和OK版影视 影视仓的新版等更新比较快的软件。  
+2）如果提示无法解析就是下载资源出了问题，这时候可以使用网盘的资源。  
+3）潇洒的包2025.3.7版之后，可以使用阿里 夸克 UC的网盘内的资源直接安装APK。  
+第一步,注册网盘之后，保存分享的资源。夸克的盘容量比较小。目前UC比较合适。  
+UC的资源会随着分享者更新而同步更新。  
+第二步,在“配置中心”中按提示扫码登录或者输入相关资料。  
+第三步,在"我的｜阿里网盘","我的｜UC网盘","我的｜夸克网盘",中打开APK 转存的默认一般在分享里面。  
 
 
+
+************************************************************************    
 ## 接口地址：
 github接口：    
 原地址：（需要挂载加速平台使用。）   
@@ -34,6 +45,8 @@ https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga
 gitlab:   
 https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga   
 
+
+************************************************************************    
 ## 本地包获取        
 本地包在线获取：    
 点击接口内的站点“本地包”  选择本地包，点击接口下载。然后接口输入本地包接口地址即可。  
@@ -44,6 +57,8 @@ https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga
 PG内置的肥羊支持模拟器  
 注意！！！！真心包，无忧接口内没有，包会直接解压到根目录。不要使用。  
 
+
+************************************************************************  
 ## 潇洒本地包    
 单线路   
 ★订阅链接★   
@@ -132,3 +147,18 @@ clan://localhost/TVBox/lib/小马.txt
 ❤️本地+在线多仓 (优选):  clan://localhost/TVBox/lib/ksck.json   
 
 
+*****************************************************************************   
+##  网盘资源  
+潇洒网盘    
+UC网盘    
+[https://drive.uc.cn/s/ba531661b3eb4?public=1](https://drive.uc.cn/s/ba531661b3eb4?public=1)    
+夸克网盘    
+[https://pan.quark.cn/s/2a68318af1a7](https://pan.quark.cn/s/2a68318af1a7)    
+
+OK版影视：
+UC盘：[https://drive.uc.cn/s/01bc89c897034](https://drive.uc.cn/s/01bc89c897034)    
+夸克：[https://pan.quark.cn/s/6fead79bddaf](https://pan.quark.cn/s/6fead79bddaf)   
+饭太硬（软件更新慢一些）   
+应用工具合集: (提取码：bdnn)      
+地址1（UC）：[https://drive.uc.cn/s/8efe230949314#/list/share](https://drive.uc.cn/s/8efe230949314#/list/share)    
+地址2（迅雷）:[https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn](https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn)   
