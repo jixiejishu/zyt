@@ -16,6 +16,15 @@ api.pnga2=借用欧歌加速
 api.pnga3=借用刘老备加速   
 
 
+在线版接口     
+zytxszx.txt=https://ghfast.top   加速    
+zytxszx1.txt=https://mirror.ghproxy.com/  加速    
+zytxszx2.txt=借用欧歌加速    
+zytxszx3.txt=借用刘老备加速     
+
+添加了DIY版Guovin的在线版接口    
+zytguo.txt  
+
 ************************************************************************    
 应用商店使用注意：  
 1）仅支持影视（fongmi）和OK版影视 影视仓的新版等更新比较快的软件。  
