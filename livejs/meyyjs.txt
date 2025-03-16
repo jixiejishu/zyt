@@ -79,8 +79,8 @@
 {"name":"IPTV研究所所有","url": "https://www.mytvsuper.com.mp/m3u/Live.m3u"},
 {"name":"IPTV研究所4GTV","url": "https://www.mytvsuper.com.mp/m3u/4GTV.m3u"},
 
-{"name":"天天开心猫TV线路有时打不开","url": "http://rihou.cc:567/gggg.nzk"},
-
+{"name":"天天开心猫TV线路(EXO)有时打不开","url": "http://rihou.cc:567/gggg.nzk"},
+{"name":"天天开心猫TV线路(IJK)有时打不开","url": "http://rihou.cc:567/gggg.nzk"},
 {"name":"广东银河频道有时打不开","url": "https://tzdr.com/iptv.txt"},
 {"name":"天天开心备用虎牙有时打不开","url": "http://www.52sw.top:678/iptv/huya.m3u"},
 {"name":"天天开心备用斗鱼有时打不开","url": "http://www.52sw.top:678/iptv/douyu.m3u"},
@@ -91,5 +91,5 @@
 {"name":"天天开心超级MV有时打不开","url": "http://kxrj.site:55/lib/MV.txt"},
 
 
-{"name":"饭太硬MemoryCollection","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt"}
+{"name":"饭太硬MemoryCollection","url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt"}
 ]
