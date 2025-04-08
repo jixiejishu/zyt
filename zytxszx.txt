@@ -5,22 +5,7 @@
   "spider": "https://gitee.com/PizazzXS/another-d/raw/master/spider.png;md5;5400486b7884dd01de5a306e34724c3c",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
   "sites": [
-//潇洒首页
-    {
-      "key": "豆瓣",
-      "name": "豆瓣｜首页",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "预告",
-      "name": "新片｜预告",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0
-    },
-//注意最后一个站点没有分隔符,  如果后面还有站点需要自己添加
+
 
 //1好趣网
 //好趣网道长
@@ -390,10 +375,10 @@
 
 
 
-//5.19#星辰
+//盒子迷线路3
     {
-      "key": "哔哩哔哩",
-      "name": "哔哩┃分类",
+      "key": "哔哩哔哩盒子迷",
+      "name": "哔哩┃分类盒子迷",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
@@ -403,18 +388,48 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
     },
+//青龙19
+{
+"key":"bili青龙",
+"name":"🅱️哔哩合集青龙",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/wex.jar",
+"type":3,
+"api":"csp_BiliGuard",
+"searchable":0,
+"quickSearch":1,
+"changeable":0,
+"filterable":1,
+"style":{
+"type":"rect",
+"ratio":1.433
+},
+"ext":{
+"json":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
+}
+},
 
-
-
-
+//南风线路 20#增加jar 有效
+    {
+      "key": "哔哩南风",
+      "name": "🅱️哔哩哔哩南风",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/Bili.json",
+        "cookie": ""
+      }
+    },
 //5.og 欧歌家庭(模拟器可能不支持)
 
-{"key":"哔哩弹幕","name":"🅱哔哩｜弹幕","type":3,"api":"csp_Bilimd","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bilibili.txt"},"timeout":10},
-{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "https://xn--wjjw-rp5imh.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--wjjw-rp5imh.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--wjjw-rp5imh.v.nxog.top/m//Bilibili/美食.json"},
-{"key": "合集","name": "💋哔哩┃合集","type": 3,"api": "https://xn--wjjw-rp5imh.v.nxog.top/m//js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--wjjw-rp5imh.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--wjjw-rp5imh.v.nxog.top/m//Bilibili/合集.json"}, 
-
-
-
+{"key": "合集","name": "💋哔哩┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
+{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
 
 
 
@@ -423,13 +438,14 @@
 //6.0戏曲相声小品音乐
 
 //6.og 欧歌家庭(模拟器可能不支持)
-{"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "https://xn--wjjw-rp5imh.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--wjjw-rp5imh.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--wjjw-rp5imh.v.nxog.top/m//Bilibili/戏曲合集.json"},
-{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://xn--wjjw-rp5imh.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--wjjw-rp5imh.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--wjjw-rp5imh.v.nxog.top/m//Bilibili/歌曲MV.json"},
+{"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
+{"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
+{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
 
-//6.19#星辰
+//盒子迷线路3
     {
-      "key": "相声小品",
-      "name": "相声┃小品",
+      "key": "相声小品盒子迷",
+      "name": "相声┃小品盒子迷",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
@@ -438,28 +454,77 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
     },
-   {
-      "key": "戏曲",
-      "name": "戏曲┃大全",
+
+//摸鱼18
+    {
+      "key": "Biliych摸鱼",
+      "name": "🆙哔哩┃歌曲┃弹幕摸鱼",
       "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+      "api": "csp_BiliGuard",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "http://我不是.摸鱼儿.com/api/moyu.php?file=mtv"
+      }
     },
     {
-      "key": "梨园",
-      "name": "梨园┃戏曲",
+      "key": "ly摸鱼",
+      "name": "📻️戏曲┃娱乐┃蓝光摸鱼",
       "type": 3,
-      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "api": "csp_AppLY",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyuer.php",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/983ec95b8248461cad620063864b21cd.jpg"
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "w7TCmsOuw6LDqlpqUFfDlOWHuOmFouaQnuWRnV/lhpzkvYflkKfCs+W/pOipgOi2vea8iuesjMKNV1zCmcKaw57DnsOdwqXCqcKgwqTDhMOYw7PCoMK0U1fCp8Klw7LDnMKwwq/CsFrCrQ=="
     },
 
+//南风线路20 添加 jar 有效
+
+    {
+      "key": "戏曲南风",
+      "name": "🅱️戏曲南风",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/json/Blixq.json",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "csp_Kugou南风",
+      "name": "🐶酷狗南风",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
 
 
 //6.d道长
@@ -484,8 +549,8 @@
 
 //7.og 欧歌家庭(模拟器可能不支持)
 //球类
-{"key": "球类","name": "⚽️球类┃合集","type": 3,"api": "https://xn--wjjw-rp5imh.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--wjjw-rp5imh.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--wjjw-rp5imh.v.nxog.top/m//Bilibili/球类合集.json"}, 
-{"key": "球星","name": "⚽️球星┃合集","type": 3,"api": "https://xn--wjjw-rp5imh.v.nxog.top/m//js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://xn--wjjw-rp5imh.v.nxog.top/m//js/我的哔哩.js?type=url&params=https://xn--wjjw-rp5imh.v.nxog.top/m//Bilibili/球星合集.json"},  
+{"key": "球类","name": "⚽️球类┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
+{"key": "球星","name": "⚽️球星┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
 
 //7.d道长
 		{
@@ -543,6 +608,61 @@
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/926tv[球].js"
 		},
+//7.1#饭太硬体育
+    {
+      "key": "926",
+      "name": "⚽926┃看球饭太硬",
+      "type": 3,
+      "api": "csp_kanqiu926Guard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "88",
+      "name": "⚽88┃看球饭太硬",
+      "type": 3,
+      "api": "csp_Sir88Guard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "看球饭太硬",
+      "name": "⚽看球┃直播饭太硬",
+      "type": 3,
+      "api": "csp_KanqiuGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
+      "timeout": 10,
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "Jrsjs饭太硬",
+      "name": "⚽ Jrs┃球迷饭太硬",
+      "type": 3,
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "timeout": 10,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
 //7.11#摸鱼
     {
       "key": "Jrsjs",
@@ -672,7 +792,33 @@
 			"order_num": 0,
 			"ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/中华听书网[听].js"
 		},
+//8.1#饭太硬 听书
+    {
+      "key": "有声小说js饭太硬",
+      "name": "🎧有声┃小说饭太硬",
+      "type": 3,
+      "api": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://ghfast.top/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
 
+
+//小米线路7 添加 jar 有效
+    {
+      "key": "听书小米",
+      "name": "📚听书┃BOOK小米",
+      "type": 3,
+      "api": "csp_TingBookGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744092366140/0408.jar;md5;a088e2c45008c883c90894ad94f01356",
+      "searchable": 1,
+      "ext": "http://www.6yueting.com"
+    },
 
 
 
@@ -740,7 +886,7 @@
             "key": "应用已加速",
             "name": "🏬应用已加速",
             "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
@@ -752,31 +898,19 @@
             "key": "应用",
             "name": "🏬应用(仅影视_Fongmi)",
             "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
             "ext": "./jars/应用.png"
         },
 
-
-//9.og欧歌应用商店
-        {
-            "key": "欧歌应用商店",
-            "name": "🛒欧歌应用商店",
-            "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://nxog.top/公众号欧歌APP/ts/sd.php"
-        },
 //欧歌应用商店潇洒本地包
         {
-            "key": "潇洒本地包",
-            "name": "🛒潇洒本地包",
+            "key": "🛒欧歌本地包更新",
+            "name": "🛒欧歌本地包更新",
             "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+            "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
@@ -788,7 +922,7 @@
             "key": "潇洒本地包（欧歌jar）",
             "name": "潇洒本地包（欧歌jar）",
             "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
@@ -798,7 +932,7 @@
             "key": "本地包",
             "name": "本地包",
             "type": 3,
-            "jar": "https://xn--wjjw-rp5imh.v.nxog.top/m/jar.php?id=xx&ou=公众号欧歌app;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b",
+            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
