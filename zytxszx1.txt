@@ -141,27 +141,13 @@
 //3.网络搜集直播转点播
 
 
-//3.15#业余打发线路
+//不良帅线路2  修改代理
     {
-      "key": "业余打发",
-      "name": "直播业余",
+      "key": " drpy_蜻蜓fm",
+      "name": "📻蜻蜓┃FM",
       "type": 3,
-      "api": "http://47.108.190.141/hipy/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "http://47.108.190.141/hipy/drpy_js/直播转点播[合].js?type=url&params=http://47.108.190.141/hipy/json/live2cms.json"
-    },
-
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "🐞蜻蜓FM[js]",
-      "type": 3,
-      "searchable": 0,
-      "api": "https://yydf.540734621.xyz/QQ/js/drpy2.min.js",
-      "ext": "https://yydf.540734621.xyz/QQ/js/蜻蜓FM.js",
-      "playerType": "2"
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/mygoww/xoxo/main/js/蜻蜓FM.js"
     },
 //3.d道长
 		{
