@@ -140,7 +140,6 @@
 
 //3.网络搜集直播转点播
 
-
 //不良帅线路2  修改代理
     {
       "key": " drpy_蜻蜓fm",
@@ -361,7 +360,7 @@
 
 
 
-//盒子迷线路3
+//5.3盒子迷线路
     {
       "key": "哔哩哔哩盒子迷",
       "name": "哔哩┃分类盒子迷",
@@ -412,11 +411,10 @@
         "cookie": ""
       }
     },
-//5.og 欧歌家庭(模拟器可能不支持)
-
-{"key": "合集","name": "💋哔哩┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
-{"key": "美食","name": "🌈美食┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
-
+//5.o欧歌家庭 添加jar
+{"key": "软件欧歌","name": "🅰️软件┃教程欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/软件教程.json"}, 
+{"key": "合集欧歌","name": "💋哔哩┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
+{"key": "美食欧歌","name": "🌈美食┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
 
 
 
@@ -428,7 +426,7 @@
 {"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
 {"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
 
-//盒子迷线路3
+//7.3盒子迷线路
     {
       "key": "相声小品盒子迷",
       "name": "相声┃小品盒子迷",
@@ -440,8 +438,44 @@
       "filterable": 1,
       "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
     },
-
-//摸鱼18
+    {
+      "key": "戏曲盒子迷",
+      "name": "戏曲┃大全盒子迷",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
+    },
+//6.4肥猫线路 添加主jar
+    {
+      "key": "酷狗肥猫",
+      "name": "🐾┃酷狗┃音乐肥猫",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
+    },
+    {
+      "key": "酷奇",
+      "name": "🎤┃酷奇┃MV",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
+    },
+//6.18摸鱼线路
     {
       "key": "Biliych摸鱼",
       "name": "🆙哔哩┃歌曲┃弹幕摸鱼",
@@ -512,7 +546,6 @@
       }
     },
 
-
 //6.d道长
 		{
 			"key": "hipy_js_相声随身听[听]",
@@ -533,10 +566,6 @@
 
 //7体育
 
-//7.og 欧歌家庭(模拟器可能不支持)
-//球类
-{"key": "球类","name": "⚽️球类┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
-{"key": "球星","name": "⚽️球星┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
 
 //7.d道长
 		{
@@ -663,6 +692,25 @@
       "quickSearch": 0,
       "changeable": 0
     },
+
+//7.8王小二放牛线路 
+    {
+      "key": "1直播王小二",
+      "name": "🌐一直┃体育🌐王小二",
+      "type": 3,
+      "api": "csp_Wexzhibo1Guard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+
+//7.o欧歌
+{"key":"88看球","name":"💋88｜看球欧歌","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","style":{"type":"list"},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/88看球.js"},
+{"key": "球类","name": "⚽️球类┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
+{"key": "球星","name": "⚽️球星┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
 
 
 
@@ -793,7 +841,20 @@
       "quickSearch": 0,
       "changeable": 0
     },
-
+//8.4肥猫线路 添加 jar
+   {
+      "key": "csp_YouShengBook",
+      "name": "📚┃六月┃听书肥猫",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_TingBook",
+      " jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
 
 //小米线路7 添加 jar 有效
     {
@@ -805,6 +866,52 @@
       "searchable": 1,
       "ext": "http://www.6yueting.com"
     },
+//8.8王二线路 添加 jar 有效
+    {
+      "key": "Wexlaobaitingshu王小二",
+      "name": "🎃‍白兔┃听书🎃王小二",
+      "type": 3,
+      "api": "csp_WexlaobaitingshuGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wex6yuetingshuGuard王小二",
+      "name": "🎃‍六月┃听书🎃王小二",
+      "type": 3,
+      "api": "csp_Wex6yuetingshuGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wex275tingshu王小二",
+      "name": "🎃‍极品┃听书🎃王小二",
+      "type": 3,
+      "api": "csp_Wex275tingshuGuard",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
+      "searchable": 1,
+      "changeable": 1
+    },
+//8.18摸鱼线路
+    {
+      "key": "有声小说js摸鱼",
+      "name": "📚有声┃小说┃娱乐摸鱼",
+      "type": 3,
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
+//9应用商店
+
 
 
 
@@ -891,7 +998,6 @@
             "ext": "./jars/应用.png"
         },
 
-
 //欧歌应用商店潇洒本地包
         {
             "key": "🛒欧歌本地包更新",
@@ -903,7 +1009,6 @@
             "changeable": 0,
             "ext": "http://123.yy.xn--dkw.xn--6qq986b3xl/sd.php"
         },
-
 
 //潇洒本地包（欧歌jar）
         {
@@ -998,6 +1103,7 @@
         "type": "list"
       }
     }
+
 
   ],
   "parses": [
