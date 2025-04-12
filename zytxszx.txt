@@ -976,10 +976,10 @@
         },
 //带有加速
       {
-            "key": "应用已加速",
-            "name": "🏬应用已加速",
+            "key": "应用已加速(欧歌jar)",
+            "name": "🏬应用已加速(欧歌jar)",
             "type": 3,
-            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
+            "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
@@ -988,10 +988,10 @@
 
 //不带加速
       {
-            "key": "应用",
-            "name": "🏬应用(仅影视_Fongmi)",
+            "key": "应用(欧歌jar)",
+            "name": "🏬应用(欧歌jar)",
             "type": 3,
-            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
+            "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
@@ -1015,24 +1015,23 @@
             "key": "潇洒本地包（欧歌jar）",
             "name": "潇洒本地包（欧歌jar）",
             "type": 3,
-            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
+            "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
             "ext": "https://9877.kstore.space/Market/market.json"
         },
         {
-            "key": "本地包",
-            "name": "本地包",
+            "key": "欧歌本地包",
+            "name": "欧歌本地包",
             "type": 3,
-            "jar": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975",
+            "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
             "ext": "./本地包接口.txt"
         },
-
 
 
 //云星日记无忧
