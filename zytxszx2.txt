@@ -2,8 +2,9 @@
 //多线路：https://9877.kstore.space/AnotherDS/api.json
 
 {
-  "spider": "https://gitee.com/PizazzXS/another-d/raw/master/spider.png;md5;5400486b7884dd01de5a306e34724c3c",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744007465626/spider.jar;md5;562468833fd001bebfb3079607046cd0",
   "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
   "sites": [
 
 
