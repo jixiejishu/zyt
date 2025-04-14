@@ -1,5 +1,3 @@
-//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
-//使用道长的drpy2.min.js的时候需要复制相应的其它文件特别是“模版.js”，潇洒的没有加密可以看到需要模版.js.
 {
     "spider": "./spider.jar",
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
@@ -12,7 +10,7 @@
       "key": "drpy_好趣网",
       "name": "📺好趣┃直播",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
+      "api": "./js/drpy2.min.js",
       "ext": "./drpy_js/好趣网[播].js"
     },
 
@@ -121,17 +119,17 @@
 
 
 //3.d道长
-//json改成潇洒的JSON以免产生混乱
+
 		{
 			"key": "hipy_js_直播转点播[合]",
 			"name": "直播转点播[合](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./JSON/live2cms.json"
+			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./json/live2cms.json"
 		},
 
 
@@ -139,7 +137,7 @@
 			"key": "hipy_js_广播迷FM[听]",
 			"name": "广播迷FM[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -161,39 +159,39 @@
 //4.优爱腾
 //潇洒
         {
-            "key": "腾讯弹幕潇洒",
-            "name": "腾讯｜弹幕潇洒",
+            "key": "腾讯潇洒",
+            "name": "腾讯｜视频潇洒",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/腾讯弹幕.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/腾讯视频.js"
         },
         {
-            "key": "优酷弹幕潇洒",
-            "name": "优酷｜弹幕潇洒",
+            "key": "优酷视频潇洒",
+            "name": "优酷｜视频潇洒",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/优酷弹幕.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/优酷视频.js"
         },
         {
-            "key": "芒果弹幕潇洒",
-            "name": "芒果｜弹幕潇洒",
+            "key": "芒果视频潇洒",
+            "name": "芒果｜视频潇洒",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/芒果弹幕.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/芒果视频.js"
         },
         {
-            "key": "爱奇艺弹幕潇洒",
-            "name": "爱奇艺｜弹幕潇洒",
+            "key": "爱奇艺潇洒",
+            "name": "爱奇艺｜视频潇洒",
             "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/爱奇艺弹幕.js"
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/爱奇艺.js"
         },
 //4.d道长
 		{
 			"key": "hipy_js_360影视[官]",
 			"name": "360影视[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -204,7 +202,7 @@
 			"key": "hipy_js_菜狗[官]",
 			"name": "菜狗[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -215,7 +213,7 @@
 			"key": "hipy_js_奇珍异兽[官]",
 			"name": "奇珍异兽[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -226,7 +224,7 @@
 			"key": "hipy_js_优酷[官]",
 			"name": "优酷[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -237,7 +235,7 @@
 			"key": "hipy_js_腾云驾雾[官]",
 			"name": "腾云驾雾[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -248,7 +246,7 @@
 			"key": "hipy_js_百忙无果[官]",
 			"name": "百忙无果[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -263,46 +261,38 @@
 //5.xs潇洒为避免混乱 json改成潇洒的JSON
 
         {
-            "key": "哔哩弹幕潇洒",
-            "name": "哔哩｜弹幕潇洒",
+            "key": "哔哩视频潇洒py",
+            "name": "哔哩｜视频潇洒py",
             "type": 3,
-            "api": "csp_Bilimd",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
+            "api": "./py/哔哩视频.py",
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-            },
-            "timeout": 10
+                "json": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
         },
         {
             "key": "哔哩合集潇洒",
-            "name": "哔哩合集｜弹幕潇洒",
+            "name": "哔哩｜合集潇洒",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1.597
+                "ratio": 1.433
             },
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt",
-                "json": "./JSON/哔哩合集.json"
-            },
-            "timeout": 10
+                "json": "./json/哔哩合集.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
         },
 //5.d道长
 		{
 			"key": "hipy_js_哔哩影视[官]",
 			"name": "哔哩影视[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -314,23 +304,23 @@
 			"key": "hipy_js_我的哔哩[官]0",
 			"name": "哔哩教育[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=./JSON/哔哩教育.json"
+			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=./json/哔哩教育.json"
 		},
 		{
 			"key": "hipy_js_我的哔哩[官]1",
 			"name": "哔哩大全[官](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 1,
-			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=./JSON/哔哩大全.json"
+			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=./json/哔哩大全.json"
 		},
 
 
@@ -525,7 +515,7 @@
 			"key": "hipy_js_相声随身听[听]",
 			"name": "相声随身听[听](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -541,7 +531,7 @@
 			"key": "hipy_js_01看球[球]",
 			"name": "01看球[球](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -552,7 +542,7 @@
 			"key": "hipy_js_88看球[球]",
 			"name": "88看球[球](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -563,7 +553,7 @@
 			"key": "hipy_js_310直播[球]",
 			"name": "310直播[球](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -574,7 +564,7 @@
 			"key": "hipy_js_360吧[球]",
 			"name": "360吧[球](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -585,7 +575,7 @@
 			"key": "hipy_js_926tv[球]",
 			"name": "926tv[球](drpy_t3)",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -649,13 +639,13 @@
     },
 
 //7.11#摸鱼
-//修改成本地
+//7.11#摸鱼
     {
       "key": "Jrsjs",
       "name": "⚽ Jrs┃球迷┃直播",
       "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/jrk.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
       "style": {
         "type": "list"
       },
@@ -696,10 +686,10 @@
 //8.d道长
 
 		{
-			"key": "hipy_js_老白故事[听]",
+			"key": "hipy_js_老白故事[听]道长",
 			"name": "老白故事[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -708,10 +698,10 @@
 		},
 
 		{
-			"key": "hipy_js_爱上你听书网[听]",
+			"key": "hipy_js_爱上你听书网[听]道长",
 			"name": "爱上你听书网[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -719,10 +709,10 @@
 			"ext": "./drpy_js/爱上你听书网[听].js"
 		},
 		{
-			"key": "hipy_js_博看听书[听]",
+			"key": "hipy_js_博看听书[听]道长",
 			"name": "博看听书[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -731,10 +721,10 @@
 		},
 
 		{
-			"key": "hipy_js_海洋听书[听]",
-			"name": "海洋听书[听](drpy_t3)",
+			"key": "hipy_js_海洋听书[听]道长",
+			"name": "海洋听书[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -742,10 +732,10 @@
 			"ext": "./drpy_js/海洋听书[听].js"
 		},
 		{
-			"key": "hipy_js_酷我听书[听]",
+			"key": "hipy_js_酷我听书[听]道长",
 			"name": "酷我听书[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -753,10 +743,10 @@
 			"ext": "./drpy_js/酷我听书[听].js"
 		},
 		{
-			"key": "hipy_js_六月听书[听]",
+			"key": "hipy_js_六月听书[听]道长",
 			"name": "六月听书[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -764,10 +754,10 @@
 			"ext": "./drpy_js/六月听书[听].js"
 		},
 		{
-			"key": "hipy_js_有声听书网[听]",
+			"key": "hipy_js_有声听书网[听]道长",
 			"name": "有声听书网[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -775,10 +765,10 @@
 			"ext": "./drpy_js/有声听书网[听].js"
 		},
 		{
-			"key": "hipy_js_有声小说吧[听]",
+			"key": "hipy_js_有声小说吧[听]道长",
 			"name": "有声小说吧[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -786,10 +776,10 @@
 			"ext": "./drpy_js/有声小说吧[听].js"
 		},
 		{
-			"key": "hipy_js_中华听书网[听]",
+			"key": "hipy_js_中华听书网[听]道长",
 			"name": "中华听书网[听](drpy_t3)道长",
 			"type": 3,
-			"api": "./JS/drpy2.min.js",
+			"api": "./js/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1064,14 +1054,41 @@
             }
         }
 
-
     ],
     "parses": [
-//2025.3.26新增夏夜解析，每天可以调用30次
         {
             "name": "夏夜",
             "type": "1",
             "url": "http://8.155.50.80/xiaye.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+        {
+            "name": "羊羊",
+            "type": 1,
+            "url": "http://117.50.184.199:94/api.php/?key=1&url=",
             "ext": {
                 "flag": [
                     "qq",
@@ -1198,181 +1215,88 @@
             }
         },
         {
-            "name": "线路1",
+            "name": "咸鱼",
             "type": 0,
-            "url": "https://www.8090g.cn/?url="
+            "url": "https://jx.xymp4.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
+                }
+            }
         },
         {
-            "name": "线路2",
+            "name": "虾米",
             "type": 0,
-            "url": "https://jx.m3u8.tv/jiexi/?url="
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
         },
         {
-            "name": "线路3",
+            "name": "淘片",
             "type": 0,
-            "url": "https://www.ckplayer.vip/jiexi/?url="
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
         },
         {
-            "name": "线路4",
+            "name": "冰豆",
             "type": 0,
-            "url": "https://yparse.ik9.cc/index.php?url="
+            "url": "https://bd.jx.cn/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
         },
         {
-            "name": "线路5",
+            "name": "七七",
             "type": 0,
-            "url": "https://bd.jx.cn/?url="
+            "url": "https://jx.77flv.cc/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
         },
         {
-            "name": "线路6",
+            "name": "盘古",
             "type": 0,
-            "url": "https://jx.yparse.com/index.php?url="
+            "url": "https://www.playm3u8.cn/jiexi.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
         },
         {
-            "name": "线路7",
+            "name": "夜幕",
             "type": 0,
-            "url": "https://jx.hls.one/?url="
-        },
-        {
-            "name": "线路8",
-            "type": 0,
-            "url": "https://pl.a6club.com/player/analysis.php?v="
-        },
-        {
-            "name": "线路9",
-            "type": 0,
-            "url": "https://jx.2s0.cn/player/?url="
-        },
-        {
-            "name": "线路10",
-            "type": 0,
-            "url": "https://jx.nnxv.cn/tv.php?url="
+            "url": "https://yemu.xyz/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
         }
     ],
     "rules": [
         {
-            "name": "量子非凡广告",
+            "name": "农民",
             "hosts": [
-                "lz",
-                "vip.lz",
-                "v.cdnlz",
-                "hd.lz",
-                "ffzy",
-                "vip.ffzy",
-                "hd.ffzy"
+                "toutiaovod.com"
             ],
             "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+                "video/tos/cn"
             ]
         },
         {
-            "name": "索尼广告",
-            "hosts": [
-                "suonizy",
-                "qrssv.com"
-            ],
-            "regex": [
-                "15.1666",
-                "15.2666"
-            ]
-        },
-        {
-            "name": "乐视广告",
-            "hosts": [
-                "leshiyun"
-            ],
-            "regex": [
-                "15.92"
-            ]
-        },
-        {
-            "name": "优质广告",
-            "hosts": [
-                "yzzy",
-                "playback"
-            ],
-            "regex": [
-                "16.63",
-                "18.66",
-                "17.66",
-                "19.13"
-            ]
-        },
-        {
-            "name": "快看广告",
-            "hosts": [
-                "kuaikan",
-                "vip.kuaikan"
-            ],
-            "regex": [
-                "15.32",
-                "15.231",
-                "18.066"
-            ]
-        },
-        {
-            "name": "360广告",
-            "hosts": [
-                "lyhuicheng"
-            ],
-            "regex": [
-                "#EXTINF.*?\\s+.*?hrz8QcR9.*?\\.ts\\s+",
-                "#EXT-X-KEY:METHOD=NONE[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "开源棋牌",
-            "hosts": [
-                "askzycdn",
-                "jkunbf",
-                "bfikuncdn",
-                "bfaskcdn"
-            ],
-            "regex": [
-                "#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXT-X-KEY:METHOD=AES-128,URI=\"[^\"]+\"\\r*\\n*#EXTINF:3.333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "暴风广告",
-            "hosts": [
-                "bfengbf.com",
-                "bfzy",
-                "c1"
-            ],
-            "regex": [
-                "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+",
-                "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "磁力广告",
-            "hosts": [
-                "magnet"
-            ],
-            "regex": [
-                "更多",
-                "请访问",
-                "example",
-                "社 區",
-                "x u u",
-                "直 播",
-                "更 新",
-                "社 区",
-                "有趣",
-                "有 趣",
-                "英皇体育",
-                "全中文AV在线",
-                "澳门皇冠赌场",
-                "哥哥快来",
-                "美女荷官",
-                "裸聊",
-                "新片首发",
-                "UUE29"
-            ]
-        },
-        {
-            "name": "火山嗅探",
+            "name": "火山",
             "hosts": [
                 "huoshan.com"
             ],
@@ -1381,7 +1305,7 @@
             ]
         },
         {
-            "name": "抖音嗅探",
+            "name": "抖音",
             "hosts": [
                 "douyin.com"
             ],
@@ -1390,12 +1314,32 @@
             ]
         },
         {
-            "name": "农民嗅探",
+            "name": "饭团点击",
             "hosts": [
-                "toutiaovod.com"
+                "dadagui",
+                "freeok",
+                "dadagui"
             ],
-            "regex": [
-                "video/tos/cn"
+            "script": [
+                "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();"
+            ]
+        },
+        {
+            "name": "毛驴点击",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        },
+        {
+            "name": "ofiii",
+            "hosts": [
+                "www.ofiii.com"
+            ],
+            "script": [
+                "const play=document.getElementsByClassName('play_icon')[0],event=new MouseEvent('click',{bubbles:!0,cancelable:!0,view:window,screenX:100,screenY:100,clientX:50,clientY:50,button:0,shiftKey:!1,ctrlKey:!1,altKey:!1,metaKey:!1,modifierState:0});play.dispatchEvent(event);"
             ]
         }
     ],
@@ -1447,18 +1391,20 @@
         {
             "name": "AI直播",
             "type": 0,
-            "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
             "playerType": 2,
             "timeout": 10
         },
         {
-            "name": "AI直播+",
+            "name": "APTV",
             "type": 0,
-            "url": "https://wget.la/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
-            "timeout": 10
+            "url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.iill.top/logo/{name}.png",
+            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+            "timeout": 10,
+            "playerType": 2
         },
 //5.Guovin质量很好
 //项目地址:https://github.com/Guovin/iptv-api
@@ -1556,6 +1502,15 @@
 //项目地址：https://github.com//MemoryCollection/IPTV
 {"name":"饭太硬MemoryCollection","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt","logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"}
 
+
+    ],
+    "hosts": [
+        "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
     ],
     "flags": [
         "youku",
