@@ -19,6 +19,7 @@
 {"name":"jxjs txt欧歌txt","url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/iptv-api/master/output/user_result.txt"},
 {"name":"jxjs m3u欧歌m3u","url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jixiejishu/iptv-api/master/output/user_result.m3u"},
 
+{"name":"欧歌tv","url": "https://tv.nxog.top/m//tv/"},
 
 {"name":"kakaxiipv4","url": "https://live.kakaxi-1.ink/iptv.txt"},
 {"name":"kakaxiipv6","url": "https://live.kakaxi-1.ink/ipv6.m3u"},
