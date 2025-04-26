@@ -16,96 +16,40 @@
 
 
 
-
-//2直播自建
-		{
-			"key": "直播ghgo加速",
-			"name": "直播ghgo加速",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./livejs/ghgojs.txt"
-		},
-		{
-			"key": "直播meyy加速",
-			"name": "直播meyy加速",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./livejs/meyyjs.txt"
-		},
-		{
-			"key": "直播刘老备加速",
-			"name": "直播刘老备加速",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./livejs/liujs.txt"
-		},
-		{
-			"key": "直播欧歌加速",
-			"name": "直播欧歌加速",
-			"type": 3,
-			"api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./livejs/oujs.txt"
-		},
-//直播自建（备）
+//直播自建（刘老备）
+//由于直播目前很少有更新，刘老备加速不稳定。直接使用本地文件。
     {
-      "key": "直播ghgo加速（备）",
-      "name": "直播ghgo加速（备）",
+      "key": "直播1加速（刘老备）",
+      "name": "直播1加速（刘老备）",
       "playerType": 1,
       "type": 3,
-      "api": "./livsjs/zb.min.js",
+      "api": "./livejs/zb.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./livejs/ghgojs.txt"
+      "ext": "./livejs/zb1.txt"
     },
     {
-      "key": "直播meyy加速（备）",
-      "name": "直播meyy加速（备）",
+      "key": "直播2加速（刘老备）",
+      "name": "直播2加速（刘老备）",
       "playerType": 1,
       "type": 3,
-      "api": "./livsjs/zb.min.js",
+      "api": "./livejs/zb.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./livejs/meyyjs.txt"
+      "ext": "./livejs/zb2.txt"
     },
     {
-      "key": "直播刘老备加速（备）",
-      "name": "直播刘老备加速（备）",
+      "key": "直播3加速（刘老备）",
+      "name": "直播3加速（刘老备）",
       "playerType": 1,
       "type": 3,
-      "api": "./livsjs/zb.min.js",
+      "api": "./livejs/zb.min.js",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./livejs/liujs.txt"
-    },
-    {
-      "key": "直播欧歌加速（备）",
-      "name": "直播欧歌加速（备）",
-      "playerType": 1,
-      "type": 3,
-      "api": "./livsjs/zb.min.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./livejs/oujs.txt"
+      "ext": "./livejs/zb3.txt"
     },
 
 
@@ -325,19 +269,6 @@
 
 
 
-//5.3盒子迷线路
-    {
-      "key": "哔哩哔哩盒子迷",
-      "name": "哔哩┃分类盒子迷",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 2,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/58cbbf5395d4468cb4180b57c2834102.jpg"
-    },
 //青龙19
 {
 "key":"bili青龙",
@@ -364,6 +295,7 @@
       "name": "🅱️哔哩哔哩南风",
       "type": 3,
       "api": "csp_Bili",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -377,9 +309,9 @@
       }
     },
 //5.o欧歌家庭 添加jar
-{"key": "软件欧歌","name": "🅰️软件┃教程欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/软件教程.json"}, 
-{"key": "合集欧歌","name": "💋哔哩┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
-{"key": "美食欧歌","name": "🌈美食┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
+{"key": "软件欧歌","name": "🅰️软件┃教程欧歌欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/软件教程.json"}, 
+{"key": "合集欧歌","name": "💋哔哩┃合集欧歌欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
+{"key": "美食欧歌","name": "🌈美食┃哔哩欧歌欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
 
 
 
@@ -387,66 +319,19 @@
 //6.0戏曲相声小品音乐
 
 //6.og 欧歌家庭(模拟器可能不支持)
-{"key": "演唱会","name": "🅰️演唱会┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
-{"key": "戏曲","name": "🅰️戏曲┃合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
-{"key": "MV","name": "🌈歌曲┃哔哩","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
+{"key": "演唱会","name": "🅰️演唱会┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
+{"key": "戏曲","name": "🅰️戏曲┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
+{"key": "MV","name": "🌈歌曲┃哔哩欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
 
-//7.3盒子迷线路
-    {
-      "key": "相声小品盒子迷",
-      "name": "相声┃小品盒子迷",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/5e6fa3015aad4fa1956ed181cfaf172b.jpg"
-    },
-    {
-      "key": "戏曲盒子迷",
-      "name": "戏曲┃大全盒子迷",
-      "type": 3,
-      "api": "csp_Bili",
-      "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg"
-    },
-//6.4肥猫线路 添加主jar
-    {
-      "key": "酷狗肥猫",
-      "name": "🐾┃酷狗┃音乐肥猫",
-      "type": 3,
-      "api": "csp_Kugou",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
-    {
-      "key": "酷奇",
-      "name": "🎤┃酷奇┃MV",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js"
-    },
+
+
 //6.18摸鱼线路
     {
       "key": "Biliych摸鱼",
       "name": "🆙哔哩┃歌曲┃弹幕摸鱼",
       "type": 3,
       "api": "csp_BiliGuard",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -481,7 +366,7 @@
       "name": "🅱️戏曲南风",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
@@ -499,7 +384,7 @@
       "name": "🐶酷狗南风",
       "type": 3,
       "api": "csp_Kugou",
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar",
       "playerType": 2,
       "ext": {
         "classes": [
@@ -583,66 +468,26 @@
 			"ext": "./drpy_js/926tv[球].js"
 		},
 
-//7.1#饭太硬体育
+
+
+//7.11#摸鱼
+//摸鱼线路18添加jar
     {
-      "key": "926",
-      "name": "⚽926┃看球饭太硬",
+      "key": "88js摸鱼",
+      "name": "⚽ 88┃看球┃直播摸鱼",
       "type": 3,
-      "api": "csp_kanqiu926Guard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
-      "timeout": 10,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "88",
-      "name": "⚽88┃看球饭太硬",
-      "type": 3,
-      "api": "csp_Sir88Guard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
-      "timeout": 10,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "看球饭太硬",
-      "name": "⚽看球┃直播饭太硬",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744071259477/f0408.txt;md5;c955190455fa33981dbe0322829d6a43",
-      "timeout": 10,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "Jrsjs饭太硬",
-      "name": "⚽ Jrs┃球迷饭太硬",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js",
       "style": {
         "type": "list"
       },
-      "timeout": 10,
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
     },
-
-//7.11#摸鱼
-//7.11#摸鱼
     {
-      "key": "Jrsjs",
-      "name": "⚽ Jrs┃球迷┃直播",
+      "key": "Jrsjs摸鱼",
+      "name": "⚽ Jrs┃球迷┃直播摸鱼",
       "type": 3,
       "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js",
@@ -653,24 +498,58 @@
       "quickSearch": 0,
       "changeable": 0
     },
-//7.8王小二放牛线路 
-    {
-      "key": "1直播王小二",
-      "name": "🌐一直┃体育🌐王小二",
-      "type": 3,
-      "api": "csp_Wexzhibo1Guard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+//7.19青龙
+//青龙线路19 添加jar有效
+
+{
+"key":"926青龙",
+"name":"⚽926看球青龙",
+"type":3,
+"api":"csp_kanqiu926Guard",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+"searchable":0,
+"quickSearch":0,
+"changeable":0,
+"style":{
+"type":"list"
+}
+},
+{
+"key":"88青龙",
+"name":"⚽88看球青龙",
+"type":3,
+"api":"csp_Sir88Guard",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+"searchable":0,
+"quickSearch":0,
+"changeable":0,
+"style":{
+"type":"list"
+}
+},
+{
+"key":"jrsjs青龙",
+"name":"⚽Jrs球迷青龙",
+"jar":"https://gitee.com/yiwu369/6758/raw/master/jar/ok1.jar",
+"type":3,
+"api":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
+"ext":"https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/cb93309b-a570-488f-8b3b-ccdfd5dea98a/2024-07-08/2024-07-08_12:19:00/1720412340587/77562264/jrs.txt",
+"style":{
+"type":"list"
+},
+"searchable":0,
+"quickSearch":0,
+"changeable":0,
+"timeout":10,
+"header":{
+"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"
+}
+},
 
 //7.o欧歌
-{"key":"88看球","name":"💋88｜看球欧歌","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","style":{"type":"list"},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/88看球.js"},
-{"key": "球类","name": "⚽️球类┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
-{"key": "球星","name": "⚽️球星┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
+{"key":"88看球","name":"💋88｜看球欧歌","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","style":{"type":"list"},"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/88看球.js"},
+{"key": "球类","name": "⚽️球类┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
+{"key": "球星","name": "⚽️球星┃合集欧歌","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
 
 
 
@@ -801,59 +680,10 @@
       "quickSearch": 0,
       "changeable": 0
     },
-//8.4肥猫线路 添加 jar
-   {
-      "key": "csp_YouShengBook",
-      "name": "📚┃六月┃听书肥猫",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_TingBook",
-      " jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1743661382424/feimao0403.txt;md5;5a0f3bef8b15b9bd2be978359fd5f4cd",
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
 
-//小米线路7 添加 jar 有效
-    {
-      "key": "听书小米",
-      "name": "📚听书┃BOOK小米",
-      "type": 3,
-      "api": "csp_TingBookGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744092366140/0408.jar;md5;a088e2c45008c883c90894ad94f01356",
-      "searchable": 1,
-      "ext": "http://www.6yueting.com"
-    },
-//8.8王二线路 添加 jar 有效
-    {
-      "key": "Wexlaobaitingshu王小二",
-      "name": "🎃‍白兔┃听书🎃王小二",
-      "type": 3,
-      "api": "csp_WexlaobaitingshuGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wex6yuetingshuGuard王小二",
-      "name": "🎃‍六月┃听书🎃王小二",
-      "type": 3,
-      "api": "csp_Wex6yuetingshuGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "Wex275tingshu王小二",
-      "name": "🎃‍极品┃听书🎃王小二",
-      "type": 3,
-      "api": "csp_Wex275tingshuGuard",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744005356627/wex.txt;md5;37a78aca95921d7a4c4f99e980aba746",
-      "searchable": 1,
-      "changeable": 1
-    },
+
+
+
 //8.18摸鱼线路
     {
       "key": "有声小说js摸鱼",
@@ -906,7 +736,7 @@
             "key": "🛒欧歌本地包更新",
             "name": "🛒欧歌本地包更新",
             "type": 3,
-            "jar":"https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=ou&ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp;md5;b245d0fb0112c08975e117b031b207f7",
+            "jar":"https://tv.nxog.top/m/jar.php",
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
@@ -990,6 +820,7 @@
 
 //云星日记无忧
 {"key": "无忧本地更新","name": "📂无忧本地包更新","type": 3,"jar":"https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://gitee.com/liu_wuyou/box/raw/master/jk/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.txt"},
+//PG本地包已经删除这个站点，但是凯速线路仍然在更新仍然可以用
 {"key": "无忧Pg本地更新","name": "📂无忧Pg本地备用","type": 3,"jar": "https://gitee.com/liu_wuyou/box/raw/master/jar/%E6%9C%AC%E5%9C%B0%E6%9B%B4%E6%96%B0.jar","api": "csp_Market","searchable": 0,"changeable": 0,"indexs": 0,"ext": "https://d.kstore.dev/download/11474/market.json"},
 //UC 夸克 阿里 哔哩哔哩
        {
@@ -1388,27 +1219,13 @@
         }
     ],
     "lives": [
-        {
-            "name": "AI直播",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "APTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.iill.top/logo/{name}.png",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 10,
-            "playerType": 2
-        },
-
+//参考项目地址:https://github.com/Guovin/iptv-api
+//欧歌接口
+{"name":"欧歌tv","type": 0,"url": " https://tv.nxog.top/m//tv/","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+//潇洒接口
+{"name":"潇洒txt","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"潇洒m3u","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 //5.Guovin质量很好
-//项目地址:https://github.com/Guovin/iptv-api
 {"name":"IPTV每天两更Guovintxt","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"IPTV每天两更Guovinm3u","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 //4.kakaxi质量很好
@@ -1419,7 +1236,7 @@
 {"name":"kakaxiipv6","type": 0,"url": "https://live.kakaxi-1.ink/ipv6.m3u","epg": "https://live.kakaxi-1.ink/epg.xml/?ch={name}&date={date}","logo": "https://live.kakaxi-1.ink/LOGO/{name}.png"},
 //2.suxuang质量一般
 //项目地址:https://github.com/suxuang/myIPTV
-{"name":"suxuang","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"suxuang","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 //3.yuanzl77质量一般，可能是https://github.com/Guovin/iptv-api的修改版
 //项目地址:https://github.com/yuanzl77/IPTV
 //官网:https://yuanzl77.github.io/
@@ -1429,9 +1246,9 @@
 //项目地址:https://github.com/fanmingming/live
 //官网:https://live.fanmingming.com/
 //有"epg"和LOGO
-{"name":"fanmingmingipv4","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u","epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
-{"name":"fanmingmingipv6","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
-{"name":"fanmingming收音机","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u","epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+{"name":"fanmingmingipv4","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/itv.m3u","epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}","logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+{"name":"fanmingmingipv6","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u","epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}","logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
+{"name":"fanmingming收音机","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/radio/m3u/fm.m3u","epg": "https://live.fanmingming.cn/e.xml/?ch={name}&date={date}","logo": "https://py.nxog.eu.org/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"},
 //8.vbskycn著名项目有直播APP
 //项目地址:https://github.com/vbskycn/iptv
 //官网:https://live.zbds.top/
@@ -1449,7 +1266,7 @@
 //项目地址：https://github.com/YanG-1989/m3u
 //官网:https://tv.iill.top/m3u/Live
 //官网:https://yang-1989.eu.org/
-{"name":"YanG-1989直播github","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"YanG-1989直播github","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"YanG-1989电视有时打不开","type": 0,"url": "https://tv.iill.top/m3u/Gather","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"YanG-1989网络直播有时打不开","type": 0,"url": "https://tv.iill.top/m3u/Live","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 {"name":"YanG-1989体育有时打不开","type": 0,"url": "https://tv.iill.top/m3u/Sport","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
@@ -1457,18 +1274,13 @@
 //11.YueChan
 //更新比较慢
 //项目地址：https://github.com/YueChan/Live
-{"name":"YueChan","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"YueChan收音机","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"YueChan","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"YueChan收音机","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Radio.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 //12.Kimentanm
 //加载很慢选择之后退出软件重新打开
 //项目地址：https://github.com/Kimentanm/aptv
-{"name":"Kimentanmaptv","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"Kimentanm收音机","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-//15.传说引导页
-//不定期更新，有很多接口
-//官网http://iptv.qoo.us.kg/
-//官网http://tvbox.gert.li/
-{"name":"传说引导页","type": 0,"url": "http://kkk.jjjj.jiduo.me/user/tttt/api.txt","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"Kimentanmaptv","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"Kimentanm收音机","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 //18.kilvn
 //日更
 //项目地址:https://github.com/kilvn/IPTV
@@ -1480,9 +1292,9 @@
 //实时更新
 //项目地址:https://github.com/jisoypub/iptv
 //官网：https://mac-cms.com/ 空壳影视
-{"name":"jisoypubipv4实时更新","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"jisoypubipv6实时更新","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
-{"name":"jisoypub收音机实时更新","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"jisoypubipv4实时更新","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv4.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"jisoypubipv6实时更新","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/ipv6.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"jisoypub收音机实时更新","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/jisoypub/iptv/refs/heads/main/radio.m3u","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://diyp2.112114.xyz/logo/{name}.png"},
 //23.IPTV研究所
 //有非常多的项目 全部 4GTV 主播直播
 //项目地址:https://www.mytvsuper.com.mp/
@@ -1496,12 +1308,11 @@
 {"name":"天天开心备用斗鱼有时打不开","type": 0,"url": "http://www.52sw.top:678/iptv/douyu.m3u"},
 //天天开心线路提取，已经停更
 //项目地址：https://github.com/lystv/short/tree/main/影视/tvb
-{"name":"天天开心16万MV","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
+{"name":"天天开心16万MV","type": 0,"url": "https://py.nxog.eu.org/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
 //天天开心json/lf_live.json提取
-{"name":"天天开心超级MV有时打不开","type": 0,"url": "http://kxrj.site:55/lib/MV.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"},
-//饭太硬线路提取，更新比较慢
-//项目地址：https://github.com//MemoryCollection/IPTV
-{"name":"饭太硬MemoryCollection","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt","logo": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"}
+{"name":"天天开心超级MV有时打不开","type": 0,"url": "http://kxrj.site:55/lib/MV.txt","epg": "http://diyp2.112114.xyz/?ch={name}&date={date}","logo": "https://diyp2.112114.xyz/logo/{name}.png"}
+
+
 
     ],
     "hosts": [

@@ -7,23 +7,14 @@ z=直播  y=优爱腾 t=体育
 由于电视内容都需要加速使用了不同的加速平台。 
 
 通过更改后缀切换不同的加速平台：  
-api.pnga=https://ghfast.top   加速
-后面加1    
-api.pnga1=https://mirror.ghproxy.com/  加速
+
+api.pnga1=加速借用欧歌加速   
 后面加2    
-api.pnga2=借用欧歌加速   
+api.pnga2=https://mirror.ghproxy.com/  目前是 https://mirror.ghproxy.com/ 
 后面加3      
 api.pnga3=借用刘老备加速   
 
 
-在线版接口     
-zytxszx.txt=https://ghfast.top   加速    
-zytxszx1.txt=https://mirror.ghproxy.com/  加速    
-zytxszx2.txt=借用欧歌加速    
-zytxszx3.txt=借用刘老备加速     
-
-添加了DIY版Guovin的在线版接口    
-zytguo.txt  
 
 ************************************************************************    
 应用商店使用注意：  
@@ -42,18 +33,18 @@ zytguo.txt
 ## 接口地址：
 github接口：    
 原地址：（需要挂载加速平台使用。）   
-https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga   
+https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1   
 
 
 下面是加上加速地址，可以直接使用：   
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga    
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga      
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1    
+https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1      
 
 codeberg接口：  
-https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga    
+https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga1    
 
 gitlab:   
-https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga   
+https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga1   
 
 
 ************************************************************************    
