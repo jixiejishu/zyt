@@ -22,6 +22,12 @@
 
 5.更新欧歌jar
 
-6.删除JS/jrk.js
+6.删除JS/jrk.js（使用摸鱼的在线版）
 
 7.更新 spider.jar
+
+2025.5.1
+1.删除道长js
+drpy_js文件夹
+json文件夹  内除了哔哩合集.json之外的三个文件
+2.更新spider.jar

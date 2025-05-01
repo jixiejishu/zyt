@@ -6,15 +6,8 @@
 //首页的豆瓣加载非常慢，而且用处不大。注意最后一个站点没有分隔符,  如果后面还有站点需要自己添加。
 //1好趣网
 //好趣网道长
-    {
-      "key": "drpy_好趣网",
-      "name": "📺好趣┃直播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./drpy_js/好趣网[播].js"
-    },
-
-
+//由于经常失效且长期未更新，删除站点
+2.
 
 //直播自建（刘老备）
 //由于直播目前很少有更新，刘老备加速不稳定。直接使用本地文件。
@@ -62,32 +55,8 @@
 //3.网络搜集直播转点播
 
 
-//3.d道长
-
-		{
-			"key": "hipy_js_直播转点播[合]",
-			"name": "直播转点播[合](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/直播转点播[合].js?type=url&params=./json/live2cms.json"
-		},
 
 
-		{
-			"key": "hipy_js_广播迷FM[听]",
-			"name": "广播迷FM[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/广播迷FM[听].js"
-		},
 
 //3.2不良帅线路  修改代理
     {
@@ -130,79 +99,12 @@
             "api": "./js/drpy2.min.js",
             "ext": "./js/爱奇艺.js"
         },
-//4.d道长
-		{
-			"key": "hipy_js_360影视[官]",
-			"name": "360影视[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/360影视[官].js"
-		},
-		{
-			"key": "hipy_js_菜狗[官]",
-			"name": "菜狗[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/菜狗[官].js"
-		},
-		{
-			"key": "hipy_js_奇珍异兽[官]",
-			"name": "奇珍异兽[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/奇珍异兽[官].js"
-		},
-		{
-			"key": "hipy_js_优酷[官]",
-			"name": "优酷[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/优酷[官].js"
-		},
-		{
-			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾云驾雾[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/腾云驾雾[官].js"
-		},
-		{
-			"key": "hipy_js_百忙无果[官]",
-			"name": "百忙无果[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/百忙无果[官].js"
-		},
 
 
 //5.哔哩哔哩
 
 //潇洒 
-//5.xs潇洒为避免混乱 json改成潇洒的JSON
+//5.xs潇洒
 
         {
             "key": "哔哩视频潇洒py",
@@ -231,41 +133,6 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
-//5.d道长
-		{
-			"key": "hipy_js_哔哩影视[官]",
-			"name": "哔哩影视[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/哔哩影视[官].js"
-		},
-
-		{
-			"key": "hipy_js_我的哔哩[官]0",
-			"name": "哔哩教育[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=./json/哔哩教育.json"
-		},
-		{
-			"key": "hipy_js_我的哔哩[官]1",
-			"name": "哔哩大全[官](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 1,
-			"ext": "./drpy_js/我的哔哩[官].js?type=url&params=./json/哔哩大全.json"
-		},
 
 
 
@@ -395,78 +262,11 @@
         ]
       }
     },
-//6.d道长
-		{
-			"key": "hipy_js_相声随身听[听]",
-			"name": "相声随身听[听](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/相声随身听[听].js"
-		},
+
 
 //7体育
 
 
-//7.d道长
-		{
-			"key": "hipy_js_01看球[球]",
-			"name": "01看球[球](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/01看球[球].js"
-		},
-		{
-			"key": "hipy_js_88看球[球]",
-			"name": "88看球[球](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/88看球[球].js"
-		},
-		{
-			"key": "hipy_js_310直播[球]",
-			"name": "310直播[球](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/310直播[球].js"
-		},
-		{
-			"key": "hipy_js_360吧[球]",
-			"name": "360吧[球](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/360吧[球].js"
-		},
-		{
-			"key": "hipy_js_926tv[球]",
-			"name": "926tv[球](drpy_t3)",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/926tv[球].js"
-		},
 
 
 
@@ -562,109 +362,7 @@
 //8.0 听书
 
 
-//8.d道长
 
-		{
-			"key": "hipy_js_老白故事[听]道长",
-			"name": "老白故事[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/老白故事[听].js"
-		},
-
-		{
-			"key": "hipy_js_爱上你听书网[听]道长",
-			"name": "爱上你听书网[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/爱上你听书网[听].js"
-		},
-		{
-			"key": "hipy_js_博看听书[听]道长",
-			"name": "博看听书[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/博看听书[听].js"
-		},
-
-		{
-			"key": "hipy_js_海洋听书[听]道长",
-			"name": "海洋听书[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/海洋听书[听].js"
-		},
-		{
-			"key": "hipy_js_酷我听书[听]道长",
-			"name": "酷我听书[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/酷我听书[听].js"
-		},
-		{
-			"key": "hipy_js_六月听书[听]道长",
-			"name": "六月听书[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/六月听书[听].js"
-		},
-		{
-			"key": "hipy_js_有声听书网[听]道长",
-			"name": "有声听书网[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/有声听书网[听].js"
-		},
-		{
-			"key": "hipy_js_有声小说吧[听]道长",
-			"name": "有声小说吧[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/有声小说吧[听].js"
-		},
-		{
-			"key": "hipy_js_中华听书网[听]道长",
-			"name": "中华听书网[听](drpy_t3)道长",
-			"type": 3,
-			"api": "./js/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/中华听书网[听].js"
-		},
 //8.1#饭太硬 听书
     {
       "key": "有声小说js饭太硬",
