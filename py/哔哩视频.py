@@ -1,4 +1,4 @@
-#coding=utf-8
+﻿#coding=utf-8
 #!/usr/bin/python
 import sys
 import json
