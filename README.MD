@@ -1,20 +1,9 @@
 # 项目简介  
-内容基于潇洒的本地包、奇奇本地包和欧歌等网络搜集线路。感谢各位作者的无私分享。
-项目主要是 下面三种：  
-z=TV  y=优爱腾 t=体育   
-
-目前的版本基于潇洒的本地包。优爱腾使用的是道长的接口。电视内容使用了摸鱼的工具。  
-由于电视内容都需要加速使用了不同的加速平台。 
-
-通过更改后缀切换不同的加速平台：  
-
-api.pnga1=加速借用欧歌加速   
-后面加2    
-api.pnga2=https://mirror.ghproxy.com/  目前是 https://mirror.ghproxy.com/ 
-后面加3      
-api.pnga3=借用刘老备加速   
-
-
+优酷爱奇艺腾讯一类的网站，目前所有的接口都已经失效。使用网上搜集的一些资料整理。  
+感谢各位作者的无私分享。  
+参考项目： 
+https://github.com/qist/tvbox    
+https://github.com/PizazzGY/NewTVBox  
 
 ************************************************************************    
 应用商店使用注意：  
@@ -33,18 +22,16 @@ api.pnga3=借用刘老备加速
 ## 接口地址：
 github接口：    
 原地址：（需要挂载加速平台使用。）   
-https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1   
+https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
 
 
 下面是加上加速地址，可以直接使用：   
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1    
-https://ghfast.top/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/api.pnga1      
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+https://v4.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
 
-codeberg接口：  
-https://codeberg.org/jixiejishu/zyt/raw/branch/main/api.pnga1    
-
-gitlab:   
-https://gitlab.com/jixiejishu/zyt/-/raw/main/api.pnga1   
 
 
 ************************************************************************  
@@ -81,30 +68,17 @@ file://TVBoxOSC/本地仓/影视.txt
 5、最后重启软件即可  
 
 
-*****************************************************************************   
-##  网盘资源  
-潇洒网盘    
-UC网盘    
-[https://drive.uc.cn/s/ba531661b3eb4?public=1](https://drive.uc.cn/s/ba531661b3eb4?public=1)    
-夸克网盘    
-[https://pan.quark.cn/s/2a68318af1a7](https://pan.quark.cn/s/2a68318af1a7)    
-
-OK版影视：
-UC盘：[https://drive.uc.cn/s/01bc89c897034](https://drive.uc.cn/s/01bc89c897034)    
-夸克：[https://pan.quark.cn/s/6fead79bddaf](https://pan.quark.cn/s/6fead79bddaf)   
-饭太硬（软件更新慢一些）   
-应用工具合集: (提取码：bdnn)      
-地址1（UC）：[https://drive.uc.cn/s/8efe230949314#/list/share](https://drive.uc.cn/s/8efe230949314#/list/share)    
-地址2（迅雷）:[https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn](https://pan.xunlei.com/s/VO4KPd68xHazX9u1VNQNsCqpA1?pwd=bdnn)   
-
-
-
-影视仓下载地址   
-UC网盘（上传下载不限速）     
-[https://drive.uc.cn/s/b437317346a14](https://drive.uc.cn/s/b437317346a14)    
-迅雷网盘 
-[https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#](https://pan.xunlei.com/s/VNmUhSiajcovKsMCvoWS2FBcA1?pwd=rxcs#)    
-夸克网盘    
-[https://pan.quark.cn/s/61d324167c07](https://pan.quark.cn/s/61d324167c07)    
-
+************************************************************************    
+⚙️GitHub加速站  
+https://gh-proxy.com/  
+https://github.catvod.com/  
+https://gh.xxooo.cf/  
+https://gh.llkk.cc/  
+https://github.ednovas.xyz/  
+https://gitdl.cn/  
+https://cf.ghproxy.cc/  
+https://ghproxy.net/  
+https://gh.aptv.app/  
+https://gitpr.xmcom.us.kg/  
+https://ghproxy.cn/  
 
