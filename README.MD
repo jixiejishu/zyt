@@ -1,9 +1,10 @@
 # 项目简介  
 优酷爱奇艺腾讯一类的网站，目前所有的接口都已经失效。使用网上搜集的一些资料整理。  
 感谢各位作者的无私分享。  
-参考项目： 
+参考项目  
 https://github.com/qist/tvbox    
 https://github.com/PizazzGY/NewTVBox  
+https://github.com/jixiejishu/tvboxzb  
 
 ************************************************************************    
 应用商店使用注意：  
@@ -31,6 +32,12 @@ https://v4.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/he
 https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
 https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
 https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+
+codeberg接口：
+https://codeberg.org/jixiejishu/zyt/raw/branch/main/zyt.json    
+
+gitlab:
+https://gitlab.com/jixiejishu/zyt/-/raw/main/zyt.json    
 
 
 
