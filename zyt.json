@@ -7,56 +7,22 @@
 
 
 
-//2.直播自建
 
-//可以使用道长的接口
-//https://github.com/qist/tvbox
+
 
 {"key":"lf_js_lf_live","name":"电视 | 直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/lf_live.txt"},
-
-
-
-//4.优爱腾//全网失效
-
-
-//5.哔哩哔哩
-
-
-
-//5.o欧歌家庭 添加jar
-//https://github.com/ouhaibo1980/tvbox
-{"key": "软件欧歌","name": "🅰️软件┃教程欧歌欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/软件教程.json"}, 
-{"key": "合集欧歌","name": "💋哔哩┃合集欧歌欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":1,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/合集.json"}, 
-{"key": "美食欧歌","name": "🌈美食┃哔哩欧歌欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/美食.json"},
-
-
-
-
-//6.0戏曲相声小品音乐
-
-//6.og 欧歌家庭(模拟器可能不支持)
-//https://github.com/ouhaibo1980/tvbox
-{"key": "演唱会","name": "🅰️演唱会┃哔哩欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/演唱会.json"}, 
-{"key": "戏曲","name": "🅰️戏曲┃合集欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/戏曲合集.json"},
-{"key": "MV","name": "🌈歌曲┃哔哩欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/歌曲MV.json"},
-
-
-
-
-//7体育
-
-
-//7.o欧歌
-{"key":"88看球","name":"💋88｜看球欧歌","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","style":{"type":"list"},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/88看球.js"},
-{"key": "球类","name": "⚽️球类┃合集欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球类合集.json"}, 
-{"key": "球星","name": "⚽️球星┃合集欧歌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/drpy2.min.js","jar":"https://tv.nxog.top/m/jar.php","searchable":0,"quickSearch": 0,"filterable": 1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/js/我的哔哩.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/Bilibili/球星合集.json"},  
-
-
-
-
-//8.0 听书
 {"key":"drpy_js_有声绘本网","name":"少儿 | 有声绘本[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/有声绘本网.js"},
-
+{"key":"drpy_js_我的哔哩","name":"弹幕 | 哔哩合集[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/我的哔哩.js"},
+{"key":"drpy_js_哔哩直播","name":"弹幕 | 哔哩直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/哔哩直播.js"},
+{"key":"drpy_js_哔哩影视","name":"弹幕 | 哔哩影视[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/哔哩影视.js"},
+{"key":"drpy_js_JustLive","name":"弹幕 | JustLive[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/JustLive.js"},
+{"key":"drpy_js_斗鱼直播","name":"直播 | 斗鱼[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/斗鱼直播.js"},
+{"key":"drpy_js_虎牙直播","name":"直播 | 虎牙[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/虎牙直播.js"},
+{"key":"drpy_js_310直播","name":"体育 | 310直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/310直播.js"},
+{"key":"drpy_js_88看球","name":"体育 | 88看球[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/88看球.js"},
+{"key":"drpy_js_JRKAN直播","name":"体育 | JRKAN直播[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/JRKAN直播.js"},
+{"key":"drpy_js_抓饭体育","name":"体育 | 抓饭体育[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/抓饭体育.js"},
+{"key":"drpy_js_好趣网","name":"电视 | 好趣网[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","style":{"type":"rect","ratio":1.333},"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/好趣网.js"},
 {"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/相声随身听.js"},
 {"key":"drpy_js_评书随身听","name":"评书 | 评书随身听[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/评书随身听.js"},
 
@@ -73,11 +39,21 @@
 {"key":"drpy_js_六月听书","name":"听书 | 六月听书[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/六月听书.js"},
 {"key":"drpy_js_有声小说","name":"听书 | 有声小说[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/有声小说吧.js"},
 {"key":"drpy_js_播客","name":"聚合 | 播客[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/播客.js"},
+{"key":"drpy_js_短视频","name":"聚合 | 短视频[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/短视频.js"},
+{"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/酷6网.js"},
+{"key":"drpy_js_网易公版影像","name":"聚合 | 网易公版[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/网易公版影像.js"},
 
-
-
-
-
+//无忧本地包
+       {
+            "key": "无忧本地更新",
+            "name": "📂无忧本地包┃更新",
+            "type": 3,
+            "api": "csp_Market",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "ext": "https://www.now61.cn/f/0lvJUV/bdgx.txt"
+        },
 
         {
             "key": "豆瓣",
