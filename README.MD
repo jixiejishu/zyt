@@ -10,21 +10,21 @@ https://github.com/jixiejishu/tvboxzb
 ## 接口地址：
 github接口：    
 原地址：（需要挂载加速平台使用。）   
-https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json 
 
 
 下面是加上加速地址，可以直接使用：   
-https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
-https://v4.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
-https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
-https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
-https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/zyt.json  
+https://gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json 
+https://v4.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json 
+https://v6.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json 
+https://cdn.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json 
+https://axisnow.gh-proxy.org/https://raw.githubusercontent.com/jixiejishu/zyt/refs/heads/main/xszb.json 
 
 codeberg接口：
-https://codeberg.org/jixiejishu/zyt/raw/branch/main/zyt.json    
+https://codeberg.org/jixiejishu/zyt/raw/branch/main/xszb.json   
 
 gitlab:
-https://gitlab.com/jixiejishu/zyt/-/raw/main/zyt.json    
+https://gitlab.com/jixiejishu/zyt/-/raw/main/xszb.json   
 
 
 
