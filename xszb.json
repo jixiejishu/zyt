@@ -44,6 +44,63 @@
 {"key":"drpy_js_酷6网","name":"聚合 | 酷6网[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/酷6网.js"},
 {"key":"drpy_js_网易公版影像","name":"聚合 | 网易公版[js]","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/网易公版影像.js"},
 
+		{
+          "key": "爱奇艺",
+          "name": "🐬[追剧]爱奇艺.py",
+          "type": 3,
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/爱奇艺.py"
+        },
+        {
+        "key":"YK",
+        "name":"🐬[追剧]优酷视频 海豚影视交流群 TG：@hshsjk9",
+        "type":3,
+        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002200-507c3e8aae.js"
+        },
+		{
+          "key": "YK",
+          "name": "🐬[追剧]优酷视频.py",
+          "type": 3,
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/优酷视频.py"
+        },
+		{
+          "key": "txvm",
+          "name": "🐬[追剧]腾讯视频",
+          "type": 3,
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾讯视频.py"
+        },
+		{"key":"MG",
+        "name":"🐬[追剧]芒果TV",
+        "type":3,
+        "api":"https://file.icve.com.cn/file_doc/249/899/3E7E0C8A023B624CEC6BDCC200F06F02.js",
+        "ext":"https://cdn.waimaimingtang.com/file/images/bwc/20251023002108-a4795930ec.js"
+        },
+		{
+		"key": "茫茫",
+        "name": "🐬[追剧]芒果TV备用",
+        "type": 3,
+         "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+         "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+        },
+		{
+          "key": "MGtv",
+          "name": "🐬[追剧]芒果TV.py",
+          "type": 3,
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/芒果TV.py"
+        },
+		{
+           "key": "腾爱优b站",
+          "name": "🐬[追剧]腾爱优b站.js",
+          "type": 3,
+          "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/jar_js/腾爱优b站.js"
+        },
+		{
+            "key": "腾爱优芒B",
+            "name": "🐬[追剧]腾爱优芒B.py",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/phu889/kjh998/refs/heads/main/py/腾爱优芒B.py"
+        },
+
 
 //无忧本地包
        {
